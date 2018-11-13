@@ -98,11 +98,11 @@
         <mark key="^" line="41" column="10" />
         <mark key="." line="41" column="10" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/login.jsp" timestamp="1542106784146">
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/login.jsp" timestamp="1542116909718">
         <mark key="'" line="104" column="4" />
-        <mark key="[" line="107" column="28" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/production/tzcrm/struts.xml" timestamp="1541057051984">
         <mark key="[" line="21" column="64" />
@@ -339,8 +339,8 @@
       <jump line="104" column="4" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/login.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldENoZWNrY29kZSgpIHsKICAgIHJldHVybiBjaGVja2NvZGU7CiAgfQoKICBwdWJsaWMgU3RyaW5nIHNldENoZWNrY29kZShTdHJpbmcgY2hlY2tjb2RlKSB7CiAgICB0aGlzLmNoZWNrY29kZSA9IGNoZWNrY29kZTsKICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2cocGFzc3dvcmQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>U</text>
@@ -351,10 +351,25 @@
       <register name="0" type="4">
         <text>数学</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2cocGFzc3dvcmQpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgLy8gY29uc29sZS5sb2codXNlcm5hbWUgKyAiOiAiICsgcGFzc3dvcmQgKyAiOiAiICsgY29kZSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgdmFyIGNvZGUgPSAkKCIjbG9naW5mb3JtXFw6Y29kZUlucHV0IikudmFsKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgdmFyIHBhc3N3b3JkID0gJCgiI2xvZ2luZm9ybVxcOnB3ZElucHV0IikudmFsKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgdmFyIHVzZXJuYW1lID0gJCgiI2xvZ2luZm9ybVxcOmlkSW5wdXQiKTsK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldENoZWNrY29kZSgpIHsKICAgIHJldHVybiBjaGVja2NvZGU7CiAgfQoKICBwdWJsaWMgU3RyaW5nIHNldENoZWNrY29kZShTdHJpbmcgY2hlY2tjb2RlKSB7CiAgICB0aGlzLmNoZWNrY29kZSA9IGNoZWNrY29kZTsKICB9</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>function() {
      var username = $(&quot;#loginform\\:idInput&quot;).val();
      var password = $(&quot;#loginform\\:pwdInput&quot;).val();
@@ -365,26 +380,11 @@
          }, &quot;json&quot;)
      });</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtZ2VuZXJhdG9yLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMy43PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgPGdyb3VwSWQ+b3JnLm15YmF0aXMuZ2VuZXJhdG9yPC9ncm91cElkPgogICAgPGFydGlmYWN0SWQ+bXliYXRpcy1nZW5lcmF0b3ItbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgPHZlcnNpb24+MS4zLjc8L3ZlcnNpb24+CiAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgPGNvbmZpZ3VyYXRpb25GaWxlPjwvY29uZmlndXJhdGlvbkZpbGU+CiAgICA8L2NvbmZpZ3VyYXRpb24+CiAgPC9kZXBlbmRlbmN5Pg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAg5L2c6ICF77ya5LiB5paH5rWpCiAg5p2l5rqQ77yaQ1NETgogIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9kd2hkb21lL2FydGljbGUvZGV0YWlscy83OTEzMTA1OQogIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICA8YW9wOmNvbmZpZyBwcm94eS10YXJnZQogICAgCiAgPC9hb3A6Y29uZmlnPg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzZXRTZXNzaW9uKE1hcDxTdHJpbmcsIE9iamVjdD4gc2Vzc2lvbikgewogICAgdGhpcy5zZXNzaW9uID0gc2Vzc2lvbjsKICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzZXRTZXJ2bGV0UmVxdWVzdChIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgdGhpcy5yZXF1ZXN0ID0gcmVxdWVzdDsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyB2b2lkIHNldFNlcnZsZXRSZXNwb25zZShIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7CiAgICB0aGlzLnJlc3BvbnNlID0gcmVzcG9uc2U7CiAgfQoK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
