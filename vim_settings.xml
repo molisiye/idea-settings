@@ -54,6 +54,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/DesignPattern/src/VisitorPattern/VisitorDemo.java" timestamp="1540481014376">
         <mark key="[" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/bean/PageBean.java" timestamp="1542725539179">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="41" />
+        <mark key="^" line="45" column="41" />
+        <mark key="." line="45" column="41" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/resource/applicationContext.xml" timestamp="1541084800913">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="83" column="0" />
@@ -82,8 +88,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/UserDaoImpl.java" timestamp="1541060003347">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/BaseDaoImpl.java" timestamp="1542158588880">
-        <mark key="[" line="38" column="25" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/BaseDaoImpl.java" timestamp="1542727829067">
+        <mark key="[" line="69" column="13" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/LInkmanDao.java" timestamp="1540790682296">
         <mark key="[" line="2" column="12" />
@@ -105,12 +111,6 @@
         <mark key="]" line="41" column="10" />
         <mark key="^" line="41" column="10" />
         <mark key="." line="41" column="10" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/login.jsp" timestamp="1542116909718">
-        <mark key="'" line="104" column="4" />
-        <mark key="[" line="106" column="25" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/production/tzcrm/struts.xml" timestamp="1541057051984">
         <mark key="[" line="21" column="64" />
@@ -167,6 +167,7 @@
       <file name="/HTML File.txt.ft" timestamp="1540531909005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffAction.java" timestamp="1542728888202" />
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/action/VisitAction.java" timestamp="1541056059112">
         <mark key="[" line="24" column="15" />
       </file>
@@ -292,7 +293,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/User.hbm.xml" timestamp="1540193411037">
         <mark key="[" line="5" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541950427091">
+      <file name="/Dummy.txt" timestamp="1542729136038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/VisitDaoImpl.java" timestamp="1540963889870">
@@ -377,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CS8vIENvbnN0cnVjdG9ycwoKCS8qKiBkZWZhdWx0IGNvbnN0cnVjdG9yICovCglwdWJsaWMgVXNlcigpIHsKCX0KCgkvKiogbWluaW1hbCBjb25zdHJ1Y3RvciAqLwoJcHVibGljIFVzZXIoU3RyaW5nIGlkLCBTdHJpbmcgdXNlcm5hbWUsIFN0cmluZyBwYXNzd29yZCkgewoJCXRoaXMuaWQgPSBpZDsKCQl0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CgkJdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwoJfQoKCS8qKiBmdWxsIGNvbnN0cnVjdG9yICovCglwdWJsaWMgVXNlcihJbnRlZ2VyIGlkLCBTdHJpbmcgdXNlcm5hbWUsIFN0cmluZyBwYXNzd29yZCwgRG91YmxlIHNhbGFyeSwKCQkJRGF0ZSBiaXJ0aGRheSwgU3RyaW5nIGdlbmRlciwgU3RyaW5nIHN0YXRpb24sIFN0cmluZyB0ZWxlcGhvbmUsCgkJCVN0cmluZyByZW1hcmspIHsKCQl0aGlzLmlkID0gaWQ7CgkJdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lOwoJCXRoaXMucGFzc3dvcmQgPSBwYXNzd29yZDsKCQl0aGlzLnNhbGFyeSA9IHNhbGFyeTsKCQl0aGlzLmJpcnRoZGF5ID0gYmlydGhkYXk7CgkJdGhpcy5nZW5kZXIgPSBnZW5kZXI7CgkJdGhpcy5zdGF0aW9uID0gc3RhdGlvbjsKCQl0aGlzLnRlbGVwaG9uZSA9IHRlbGVwaG9uZTsKCQl0aGlzLnJlbWFyayA9IHJlbWFyazsKCX0=</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
