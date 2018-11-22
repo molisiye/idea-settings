@@ -172,7 +172,7 @@
       <file name="/HTML File.txt.ft" timestamp="1540531909005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffAction.java" timestamp="1542799891476">
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffAction.java" timestamp="1542871726524">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="39" column="27" />
         <mark key="^" line="39" column="27" />
@@ -246,9 +246,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/UserDao.java" timestamp="1542162214104">
         <mark key="[" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542719345313">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
+        <mark key="[" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/resources/struts.xml" timestamp="1542871499377" />
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/UserDaoImpl.java" timestamp="1540984219461">
         <mark key="[" line="49" column="4" />
       </file>
@@ -290,8 +291,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/service/Impl/VisitServiceImpl.java" timestamp="1541085838489">
         <mark key="[" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/StaffService.java" timestamp="1542797709977">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/StaffService.java" timestamp="1542872591355">
         <mark key="]" line="38" column="28" />
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
@@ -320,11 +320,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/BaseDao.java" timestamp="1542158612982">
         <mark key="[" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/staff.jsp" timestamp="1542795974134">
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/staff.jsp" timestamp="1542872140165">
         <mark key="[" line="46" column="8" />
-        <mark key="]" line="176" column="34" />
-        <mark key="^" line="176" column="34" />
-        <mark key="." line="176" column="34" />
+        <mark key="]" line="191" column="34" />
+        <mark key="^" line="191" column="34" />
+        <mark key="." line="191" column="34" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/bean/PageBean.java" timestamp="1542766686121">
         <mark key="[" line="80" column="13" />
@@ -462,6 +462,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
