@@ -234,6 +234,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/bean/PageBean.java" timestamp="1540898810293">
         <mark key="[" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1543316858174">
+        <mark key="[" line="223" column="84" />
+        <mark key="]" line="223" column="84" />
+        <mark key="^" line="223" column="83" />
+        <mark key="." line="223" column="84" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/artifacts/tzcrm_war_exploded/index.html" timestamp="1540897298199">
         <mark key="[" line="67" column="98" />
       </file>
@@ -278,9 +284,6 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/resources/struts.xml" timestamp="1543075721001">
-        <mark key="[" line="43" column="4" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/UserDaoImpl.java" timestamp="1540984219461">
         <mark key="[" line="49" column="4" />
@@ -442,11 +445,11 @@
       <jump line="85" column="79" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/BaseDaoImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKGpzb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>json</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -454,32 +457,32 @@
       <register name="0" type="4">
         <text>数学</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKGpzb24pOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQkJCQk8dHI+CgkJCQkJCTx0ZD7liIbmi6PnvJbnoIE8L3RkPgoJCQkJCQk8dGQ+PGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImlkIiBjbGFzcz0iZWFzeXVpLXZhbGlkYXRlYm94IiByZXF1aXJlZD0idHJ1ZSIvPjwvdGQ+CgkJCQkJPC90cj4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnNldENvbnRlbnRUeXBlKCJ0ZXh0L2pzb247Y2hhcnNldD11dGYtOCIpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmdldFdyaXRlcigpLndyaXRlKGpzb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBqc29uID0gSlNPTk9iamVjdC5mcm9tT2JqZWN0KHBhZ2VCZWFuLCBqc29uQ29uZmlnKS50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnNldENvbnRlbnRUeXBlKCJ0ZXh0L2pzb247Y2hhcnNldD11dGYtOCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEpzb25Db25maWcganNvbkNvbmZpZyA9IG5ldyBKc29uQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqc29uID0gSlNPTk9iamVjdC5mcm9tT2JqZWN0KHBhZ2VCZWFuLCBqc29uQ29uZmlnKS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIEpzb25Db25maWcganNvbkNvbmZpZyA9IG5ldyBKc29uQ29uZmlnKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIOWtmOWcqOmXrumimO+8muWPr+iDveS8muWHuueOsOatu+W+queOrwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIFBhZ2VCZWFuIHBhZ2VCZWFuID0gbmV3IFBhZ2VCZWFuKCk7CiAgICBwYWdlQmVhbi5zZXRDdXJyZW50UGFnZShwYWdlKTsKICAgIHBhZ2VCZWFuLnNldFBhZ2VTaXplKHJvd3MpOwoKICAgIERldGFjaGVkQ3JpdGVyaWEgZGMgPSBEZXRhY2hlZENyaXRlcmlhLmZvckNsYXNzKFJlZ2lvbi5jbGFzcyk7CiAgICBwYWdlQmVhbi5zZXREYyhkYyk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMucGFnZSA9IHBhZ2U7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KICB9CgoKICBAT3ZlcnJpZGUKICBwdWJsaWMgVCBnZXRNb2RlbCgpIHsKCiAgICByZXR1cm4gbW9kZWw7CiAgfQoKICAKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzZXRTZXJ2bGV0UmVxdWVzdChIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgdGhpcy5yZXF1ZXN0ID0gcmVxdWVzdDsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyB2b2lkIHNldFNlcnZsZXRSZXNwb25zZShIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7CiAgICB0aGlzLnJlc3BvbnNlID0gcmVzcG9uc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzZXRTZXNzaW9uKE1hcDxTdHJpbmcsIE9iamVjdD4gc2Vzc2lvbikgewogICAgdGhpcy5zZXNzaW9uID0gc2Vzc2lvbjsKICB9CgoKCiAgcHVibGljIHZvaWQgc2V0UGFnZShpbnQgcGFnZSkgewogICAgdGhpcy5wYWdlID0gcGFnZTsKICB9CgoKCiAgcHVibGljIHZvaWQgc2V0Um93cyhpbnQgcm93cykgewogICAgdGhpcy5yb3dzID0gcm93czsKICB9Cn0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBwYWdlOwogIHByaXZhdGUgaW50IHJvd3M7Cg==</text>
+        <text encoding="base64">ICAgIH0KICB9CgoKICBAT3ZlcnJpZGUKICBwdWJsaWMgVCBnZXRNb2RlbCgpIHsKCiAgICByZXR1cm4gbW9kZWw7CiAgfQoKICAKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzZXRTZXJ2bGV0UmVxdWVzdChIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgdGhpcy5yZXF1ZXN0ID0gcmVxdWVzdDsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyB2b2lkIHNldFNlcnZsZXRSZXNwb25zZShIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7CiAgICB0aGlzLnJlc3BvbnNlID0gcmVzcG9uc2U7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzZXRTZXNzaW9uKE1hcDxTdHJpbmcsIE9iamVjdD4gc2Vzc2lvbikgewogICAgdGhpcy5zZXNzaW9uID0gc2Vzc2lvbjsKICB9CgoKCiAgcHVibGljIHZvaWQgc2V0UGFnZShpbnQgcGFnZSkgewogICAgdGhpcy5wYWdlID0gcGFnZTsKICB9CgoKCiAgcHVibGljIHZvaWQgc2V0Um93cyhpbnQgcm93cykgewogICAgdGhpcy5yb3dzID0gcm93czsKICB9Cn0K</text>
       </register>
     </registers>
     <search>
