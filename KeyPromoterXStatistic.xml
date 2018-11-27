@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'tomcat7:run'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -590,7 +590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'tomcat7:run'</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat8'">
