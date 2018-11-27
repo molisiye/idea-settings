@@ -400,7 +400,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjsK</text>
+        <text encoding="base64">ICAgICAgcmVnaW9uRGFvLnNhdmVPclVwZGF0ZShyZWdpb24pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -412,31 +412,31 @@
         <text>数学</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjsK</text>
+        <text encoding="base64">ICAgICAgcmVnaW9uRGFvLnNhdmVPclVwZGF0ZShyZWdpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjsK</text>
+        <text encoding="base64">ICAgIGZvciAoUmVnaW9uIHJlZ2lvbiA6IGxpc3RzKSB7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjtkZAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgSW50ZWdlciBnZXRQYWdlKCkgewogICAgcmV0dXJuIHBhZ2U7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRQYWdlKEludGVnZXIgcGFnZSkgewogICAgdGhpcy5wYWdlID0gcGFnZTsKICB9CgogIHB1YmxpYyBJbnRlZ2VyIGdldFJvd3MoKSB7CiAgICByZXR1cm4gcm93czsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJvd3MoSW50ZWdlciByb3dzKSB7CiAgICB0aGlzLnJvd3MgPSByb3dzOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxkZG4oKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ei5ib3MuYmVhbi5QYWdlQmVhbjtkZAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGNlbGwudG9TdHJpbmcoKSk7CiAgICAgIH0=</text>
+        <text encoding="base64">ICBwdWJsaWMgSW50ZWdlciBnZXRQYWdlKCkgewogICAgcmV0dXJuIHBhZ2U7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRQYWdlKEludGVnZXIgcGFnZSkgewogICAgdGhpcy5wYWdlID0gcGFnZTsKICB9CgogIHB1YmxpYyBJbnRlZ2VyIGdldFJvd3MoKSB7CiAgICByZXR1cm4gcm93czsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJvd3MoSW50ZWdlciByb3dzKSB7CiAgICB0aGlzLnJvd3MgPSByb3dzOwogIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxkZG4oKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgZm9yIChDZWxsIGNlbGwgOiByb3cpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGNlbGwudG9TdHJpbmcoKSk7CiAgICAgIH0=</text>
       </register>
     </registers>
     <search>
