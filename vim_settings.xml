@@ -250,6 +250,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/bean/PageBean.java" timestamp="1540898810293">
         <mark key="[" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/json/subarea.json" timestamp="1543642228533">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1543501702773">
         <mark key="[" line="200" column="4" />
         <mark key="]" line="235" column="29" />
@@ -393,10 +399,6 @@
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/BaseAction.java" timestamp="1543324052012">
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/WebContent/login.jsp" timestamp="1541085615861">
         <mark key="[" line="191" column="100" />
