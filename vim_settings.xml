@@ -275,10 +275,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1543911473452">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1543936042152">
+        <mark key="[" line="219" column="19" />
+        <mark key="]" line="219" column="17" />
+        <mark key="." line="219" column="17" />
+        <mark key="^" line="219" column="17" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/artifacts/tzcrm_war_exploded/index.html" timestamp="1540897298199">
         <mark key="[" line="67" column="98" />
@@ -495,47 +496,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>subareas</text>
+        <text>st</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkKCIjc2VhcmNoRm9ybSIpLnN1Ym1pdCgpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAkKGZ1bmN0aW9uKCkgewoKCiAgICB9KQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgfQo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgPHJlc3VsdCBuYW1lPSJzZWFyY2giIHR5cGU9InJlZGlyZWN0QWN0aW9uIj4KICAgICAgICA8cGFyYW0gbmFtZT0ibmFtZXNwYWNlIj4vPC9wYXJhbT4KICAgICAgICA8cGFyYW0gbmFtZT0iYWN0aW9uTmFtZSI+c3ViYXJlYUFjdGlvbl9wYWdlUXVlcnk8L3BhcmFtPgogICAgICA8L3Jlc3VsdD4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgLyoqCiAgICog5qC55o2uIGlkIOWIoOmZpAogICAqIEBwYXJhbSBpZAogICAqLwogIHZvaWQgZGVsZXRlQnlJZChTZXJpYWxpemFibGUgaWQpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBkZWxldGVCeUlkKFNlcmlhbGl6YWJsZSBpZCkgewogICAgZ2V0SGliZXJuYXRlVGVtcGxhdGUoKS5kZWxldGUKICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHRoaXMuamF2YUpzb24ocGFnZUJlYW4sIG5ldyBTdHJpbmdbXXsiZGVjaWRlZHpvbmUiLCAicmVnaW9uIiwgInN1YmFyZWFzIiwgImN1cnJlbnRQYWdlIiwgImRjIiwgInBhZ2VTaXplIiwgInJlZ2lvbi5pZCJ9KTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoU3ViYXJlYS5jbGFzcyk7CiAgICBkZXRhY2hlZENyaXRlcmlhLmNyZWF0ZUFsaWFzKCJyZWdpb24iLCAiciIpOwogICAgZGV0YWNoZWRDcml0ZXJpYS5hZGQoUmVzdHJpY3Rpb25zLmxpa2UoImFkZHJlc3NrZXkiLCBtb2RlbC5nZXRBZGRyZXNza2V5KCkpKQogICAgICAgICAgICAuYWRkKFJlc3RyaWN0aW9ucy5saWtlKCJyLnByb3ZpbmNlIiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0UHJvdmluY2UoKSArICIlIikpCiAgICAgICAgICAgIC5hZGQoUmVzdHJpY3Rpb25zLmxpa2UoInIuZGlzdHJpY3QiLCBtb2RlbC5nZXRSZWdpb24oKS5nZXREaXN0cmljdCgpICsgIiUiKSkKICAgICAgICAgICAgLmFkZChSZXN0cmljdGlvbnMubGlrZSgici5jaXR5IiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0Q2l0eSgpICsgIiUiKSk7CiAgICBwYWdlQmVhbi5zZXREYyhkZXRhY2hlZENyaXRlcmlhKTsKICAgIHN1YmFyZWFTZXJ2aWNlLnBhZ2VRdWVyeShwYWdlQmVhbik7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>form(&quot;submit&quot;, {
-              success: function() {
-                  $(&quot;#grid&quot;).datagrid(&quot;reload&quot;)
-              }
-            })</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
