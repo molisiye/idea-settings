@@ -63,11 +63,12 @@
         <mark key="^" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/SubareaAction.java" timestamp="1544063256917">
-        <mark key="[" line="106" column="23" />
-        <mark key="]" line="106" column="23" />
-        <mark key="^" line="106" column="60" />
-        <mark key="." line="106" column="23" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/SubareaAction.java" timestamp="1544066831632">
+        <mark key="x" line="108" column="28" />
+        <mark key="[" line="113" column="11" />
+        <mark key="]" line="113" column="4" />
+        <mark key="." line="113" column="4" />
+        <mark key="^" line="113" column="4" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/RegionDao.java" timestamp="1543321091231">
         <mark key="[" line="7" column="33" />
@@ -149,8 +150,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/DesignPattern/src/VisitorPattern/Car.java" timestamp="1540480576867">
         <mark key="[" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Subarea.hbm.xml" timestamp="1543645310392">
-        <mark key="[" line="12" column="20" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Subarea.hbm.xml" timestamp="1544066977686">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/BaseDictDaoImpl.java" timestamp="1540451326515">
         <mark key="[" line="2" column="28" />
@@ -216,7 +220,6 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/regionService.java" timestamp="1543297946083">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.4.RELEASE/spring-aop-4.2.4.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java" timestamp="1543902840445" />
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffAction.java" timestamp="1543306604231">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -231,8 +234,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/UserAction.java" timestamp="1542712144094">
         <mark key="[" line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Decidedzone.hbm.xml" timestamp="1543926244301">
-        <mark key="[" line="9" column="66" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Decidedzone.hbm.xml" timestamp="1544066912183">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/CustomerDaoImpl.java" timestamp="1541059975561">
         <mark key="[" line="14" column="0" />
@@ -275,7 +280,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1543983752388">
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1544067322693">
         <mark key="[" line="239" column="36" />
         <mark key="]" line="239" column="36" />
         <mark key="." line="239" column="36" />
@@ -496,10 +501,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>assigned</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>assigned</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -508,31 +513,31 @@
         <text encoding="base64">ICAgIGhlYWRSb3cuY3JlYXRlQ2VsbCgzKS5zZXRDZWxsVmFsdWUoIuS9jee9ruS/oeaBryIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRSb3cuY3JlYXRlQ2VsbCgwKS5zZXRDZWxsVmFsdWUoIuWIhuWMuue8luWPtyIpOwo=</text>
+        <text encoding="base64">ICAgIFNlcnZsZXRPdXRwdXRTdHJlYW0gb3V0cHV0U3RyZWFtID0gcmVzcG9uc2UuZ2V0T3V0cHV0U3RyZWFtKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocHJvdmluY2UpKSB7CiAgICAgICAgLy8g5re75Yqg6L+H5ruk5p2h5Lu277yM5qC55o2u55yB5Lu95qih57OK5p+l6K+iLOWkmuihqOWFs+iBlOafpeivou+8jOS9v+eUqOWIq+WQjeaWueW8j+WunueOsAogICAgICAgIGRjLmFkZChSZXN0cmljdGlvbnMubGlrZSgici5wcm92aW5jZSIsICIlIiArIHByb3ZpbmNlICsgIiUiKSk7CiAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dFN0cmVhbS4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKG1vZGVsLmdldEFkZHJlc3NrZXkoKSkpIHsKCiAgICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoU3ViYXJlYS5jbGFzcyk7CgogICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhtb2RlbC5nZXRBZGRyZXNza2V5KCkpKSB7CiAgICAgICAgZGV0YWNoZWRDcml0ZXJpYS5hZGQoUmVzdHJpY3Rpb25zLmxpa2UoImFkZHJlc3NrZXkiLCBtb2RlbC5nZXRBZGRyZXNza2V5KCkpKTsKICAgICAgfQoKICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobW9kZWwuZ2V0UmVnaW9uKCkuZ2V0UHJvdmluY2UoKSkpIHsKICAgICAgICBkZXRhY2hlZENyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMubGlrZSgicmVnaW9uLnByb3ZpbmNlIiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0UHJvdmluY2UoKSkpOwogICAgICB9CiAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKG1vZGVsLmdldFJlZ2lvbigpLmdldENpdHkoKSkpIHsKICAgICAgICBkZXRhY2hlZENyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMubGlrZSgicmVnaW9uLnByb3ZpbmNlIiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0Q2l0eSgpKSk7CiAgICAgIH0KICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobW9kZWwuZ2V0UmVnaW9uKCkuZ2V0RGlzdHJpY3QoKSkpIHsKICAgICAgICBkZXRhY2hlZENyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMubGlrZSgicmVnaW9uLmRpc3RyaWN0IiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0RGlzdHJpY3QoKSkpOwogICAgICB9CiAgICAgIHBhZ2VCZWFuLnNldERjKGRldGFjaGVkQ3JpdGVyaWEpOwogICAgICBzdWJhcmVhU2VydmljZS5wYWdlUXVlcnkocGFnZUJlYW4pOwoKICAgICAgdGhpcy5qYXZhSnNvbihwYWdlQmVhbiwgbmV3IFN0cmluZ1tdeyJkZWNpZGVkem9uZSIsICJzdWJhcmVhcyIsICJjdXJyZW50UGFnZSIsICJkYyIsICJwYWdlU2l6ZSIsICJyZWdpb24uaWQifSk7CiAgICAgIHJldHVybiAibGlzdCI7CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhlYWRSb3cuY3JlYXRlQ2VsbCgwKS5zZXRDZWxsVmFsdWUoIuWIhuWMuue8luWPtyIpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICBpZiAoY3VycmVudFBhZ2UgPT0gMCkgewogICAgICBjdXJyZW50UGFnZSA9IDE7CiAgICB9CgogICAgaWYgKHBhZ2VTaXplID09IDApIHsKICAgICAgcGFnZVNpemUgPSAzMDsKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocHJvdmluY2UpKSB7CiAgICAgICAgLy8g5re75Yqg6L+H5ruk5p2h5Lu277yM5qC55o2u55yB5Lu95qih57OK5p+l6K+iLOWkmuihqOWFs+iBlOafpeivou+8jOS9v+eUqOWIq+WQjeaWueW8j+WunueOsAogICAgICAgIGRjLmFkZChSZXN0cmljdGlvbnMubGlrZSgici5wcm92aW5jZSIsICIlIiArIHByb3ZpbmNlICsgIiUiKSk7CiAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjc2VhcmNoRm9ybSIpLnN1Ym1pdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAkKGZ1bmN0aW9uKCkgewoKCiAgICB9KQ==</text>
+        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKG1vZGVsLmdldEFkZHJlc3NrZXkoKSkpIHsKCiAgICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoU3ViYXJlYS5jbGFzcyk7CgogICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhtb2RlbC5nZXRBZGRyZXNza2V5KCkpKSB7CiAgICAgICAgZGV0YWNoZWRDcml0ZXJpYS5hZGQoUmVzdHJpY3Rpb25zLmxpa2UoImFkZHJlc3NrZXkiLCBtb2RlbC5nZXRBZGRyZXNza2V5KCkpKTsKICAgICAgfQoKICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobW9kZWwuZ2V0UmVnaW9uKCkuZ2V0UHJvdmluY2UoKSkpIHsKICAgICAgICBkZXRhY2hlZENyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMubGlrZSgicmVnaW9uLnByb3ZpbmNlIiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0UHJvdmluY2UoKSkpOwogICAgICB9CiAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKG1vZGVsLmdldFJlZ2lvbigpLmdldENpdHkoKSkpIHsKICAgICAgICBkZXRhY2hlZENyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMubGlrZSgicmVnaW9uLnByb3ZpbmNlIiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0Q2l0eSgpKSk7CiAgICAgIH0KICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobW9kZWwuZ2V0UmVnaW9uKCkuZ2V0RGlzdHJpY3QoKSkpIHsKICAgICAgICBkZXRhY2hlZENyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMubGlrZSgicmVnaW9uLmRpc3RyaWN0IiwgbW9kZWwuZ2V0UmVnaW9uKCkuZ2V0RGlzdHJpY3QoKSkpOwogICAgICB9CiAgICAgIHBhZ2VCZWFuLnNldERjKGRldGFjaGVkQ3JpdGVyaWEpOwogICAgICBzdWJhcmVhU2VydmljZS5wYWdlUXVlcnkocGFnZUJlYW4pOwoKICAgICAgdGhpcy5qYXZhSnNvbihwYWdlQmVhbiwgbmV3IFN0cmluZ1tdeyJkZWNpZGVkem9uZSIsICJzdWJhcmVhcyIsICJjdXJyZW50UGFnZSIsICJkYyIsICJwYWdlU2l6ZSIsICJyZWdpb24uaWQifSk7CiAgICAgIHJldHVybiAibGlzdCI7CiAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBpZiAoY3VycmVudFBhZ2UgPT0gMCkgewogICAgICBjdXJyZW50UGFnZSA9IDE7CiAgICB9CgogICAgaWYgKHBhZ2VTaXplID09IDApIHsKICAgICAgcGFnZVNpemUgPSAzMDsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIjc2VhcmNoRm9ybSIpLnN1Ym1pdCgpCg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
