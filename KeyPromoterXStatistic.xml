@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Tomcat 7.0.90'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'bos1808-parent [install]'">
@@ -358,7 +358,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>263</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -550,7 +550,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1284</Count>
+          <Count>1285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Demo.fun07'">
