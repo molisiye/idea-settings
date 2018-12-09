@@ -73,10 +73,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/RegionDao.java" timestamp="1544070745766">
         <mark key="[" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/impl/CustomerServiceImpl.java" timestamp="1544288484648">
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="64" column="20" />
-        <mark key="." line="64" column="20" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/impl/CustomerServiceImpl.java" timestamp="1544353393794">
+        <mark key="[" line="84" column="7" />
+        <mark key="]" line="84" column="7" />
+        <mark key="." line="84" column="7" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/BaseDict.hbm.xml" timestamp="1540443215831">
         <mark key="[" line="19" column="8" />
@@ -358,8 +358,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/service/Impl/CustomerServiceImpl.java" timestamp="1541085762732">
         <mark key="[" line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/CustomerService.java" timestamp="1544288424200">
-        <mark key="[" line="27" column="13" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/CustomerService.java" timestamp="1544353076639">
+        <mark key="[" line="29" column="2" />
         <mark key="]" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
@@ -529,10 +529,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>decidedzoneId</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>decidedzoneId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
