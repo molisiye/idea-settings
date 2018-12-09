@@ -73,10 +73,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/RegionDao.java" timestamp="1544070745766">
         <mark key="[" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/impl/CustomerServiceImpl.java" timestamp="1544353393794">
-        <mark key="[" line="84" column="7" />
-        <mark key="]" line="84" column="7" />
-        <mark key="." line="84" column="7" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/impl/CustomerServiceImpl.java" timestamp="1544354122510">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/BaseDict.hbm.xml" timestamp="1540443215831">
         <mark key="[" line="19" column="8" />
@@ -449,6 +449,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/FunctionalInterfaceDemo/src/StreamDemo.java" timestamp="1541479592513">
         <mark key="[" line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/BaseDao.java" timestamp="1544071143060">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/staff.jsp" timestamp="1543301376672">
         <mark key="[" line="167" column="74" />
         <mark key="]" line="183" column="0" />
@@ -529,7 +534,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>decidedzoneId</text>
+        <text encoding="base64">ICAgIExpc3Q8Q3VzdG9tZXI+IGxpc3QgPSBqZGJjVGVtcGxhdGUucXVlcnkoc3FsLCAocnMsIGFyZzEpIC0+IHsKICAgICAgaW50IGlkID0gcnMuZ2V0SW50KCJpZCIpOwogICAgICBTdHJpbmcgbmFtZSA9IHJzLmdldFN0cmluZygibmFtZSIpOwogICAgICBTdHJpbmcgc3RhdGlvbiA9IHJzLmdldFN0cmluZygic3RhdGlvbiIpOwogICAgICBTdHJpbmcgdGVsZXBob25lID0gcnMuZ2V0U3RyaW5nKCJ0ZWxlcGhvbmUiKTsKICAgICAgU3RyaW5nIGRlY2lkZWR6b25lX2lkID0gcnMuZ2V0U3RyaW5nKCJkZWNpZGVkem9uZV9pZCIpOwogICAgICByZXR1cm4gbmV3IEN1c3RvbWVyKGlkLCBuYW1lLCBzdGF0aW9uLCB0ZWxlcGhvbmUsIGFkZHJlc3MsIGRlY2lkZWR6b25lX2lkKTsKICAgIH0sIGFkZHJlc3MpOwoKICAgIGlmIChsaXN0ICE9IG51bGwgJiYgbGlzdC5zaXplKCkgPiAwKSB7CiAgICAgIHJldHVybiBsaXN0LmdldCgwKTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>decidedzoneId</text>
@@ -541,31 +546,31 @@
         <text encoding="base64">ICAvKioKICAgKiDov5znqIvosIPnlKhjcm3mnI3liqHvvIzojrflj5bmnKrlhbPogZTliLDlrprljLrnmoTlrqLmiLcKICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CuKJiHZpY2U7CgriiIJydmljZTs=</text>
+        <text encoding="base64">ICAgIExpc3Q8Q3VzdG9tZXI+IGxpc3QgPSBqZGJjVGVtcGxhdGUucXVlcnkoc3FsLCAocnMsIGFyZzEpIC0+IHsKICAgICAgaW50IGlkID0gcnMuZ2V0SW50KCJpZCIpOwogICAgICBTdHJpbmcgbmFtZSA9IHJzLmdldFN0cmluZygibmFtZSIpOwogICAgICBTdHJpbmcgc3RhdGlvbiA9IHJzLmdldFN0cmluZygic3RhdGlvbiIpOwogICAgICBTdHJpbmcgdGVsZXBob25lID0gcnMuZ2V0U3RyaW5nKCJ0ZWxlcGhvbmUiKTsKICAgICAgU3RyaW5nIGRlY2lkZWR6b25lX2lkID0gcnMuZ2V0U3RyaW5nKCJkZWNpZGVkem9uZV9pZCIpOwogICAgICByZXR1cm4gbmV3IEN1c3RvbWVyKGlkLCBuYW1lLCBzdGF0aW9uLCB0ZWxlcGhvbmUsIGFkZHJlc3MsIGRlY2lkZWR6b25lX2lkKTsKICAgIH0sIGFkZHJlc3MpOwoKICAgIGlmIChsaXN0ICE9IG51bGwgJiYgbGlzdC5zaXplKCkgPiAwKSB7CiAgICAgIHJldHVybiBsaXN0LmdldCgwKTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CuKJiHZpY2U7CgriiIJydmljZTs=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgcmV0dXJuIGlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SWQoU3RyaW5nIGlkKSB7CiAgICB0aGlzLmlkID0gaWQ7CiAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJCgiI3NhdmUiKS5jbGljayhmdW5jdGlvbigpIHsKICAgICAgICAkKCIjYWRkRGVjaWRlZHpvbkZvcm0iKS5zdWJtaXQoKTsKICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgoJJChmdW5jdGlvbigpIHsKCiAgICB9KQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBwdWJsaWMgSmRiY1RlbXBsYXRlIGdldEpkYmNUZW1wbGF0ZSgpIHsKICAgIHJldHVybiBqZGJjVGVtcGxhdGU7CiAgfQ==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDwhLS0g6YCa6L+H5Yid5aeL5YyW5Y+C5pWw5oyH5a6aY3hm5qGG5p6255qE6YWN572u5paH5Lu25L2N572uLS0+CiAgICA8aW5pdC1wYXJhbT4KICAgICAgPHBhcmFtLW5hbWU+Y29uZmlnLWxvY2F0aW9uPC9wYXJhbS1uYW1lPgogICAgICA8cGFyYW0tdmFsdWU+Y2xhc3NwYXRoOmN4Zi54bWw8L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgcmV0dXJuIGlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SWQoU3RyaW5nIGlkKSB7CiAgICB0aGlzLmlkID0gaWQ7CiAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJCgiI3NhdmUiKS5jbGljayhmdW5jdGlvbigpIHsKICAgICAgICAkKCIjYWRkRGVjaWRlZHpvbkZvcm0iKS5zdWJtaXQoKTsKICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgoJJChmdW5jdGlvbigpIHsKCiAgICB9KQ==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICBwdWJsaWMgSmRiY1RlbXBsYXRlIGdldEpkYmNUZW1wbGF0ZSgpIHsKICAgIHJldHVybiBqZGJjVGVtcGxhdGU7CiAgfQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
