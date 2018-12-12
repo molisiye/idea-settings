@@ -535,7 +535,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/User.hbm.xml" timestamp="1540193411037">
         <mark key="[" line="5" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544086630576">
+      <file name="/Dummy.txt" timestamp="1544628424368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/VisitDaoImpl.java" timestamp="1540963889870">
@@ -613,6 +613,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_common/src/main/java/entity/PageResult.java" timestamp="1544512400014">
         <mark key="[" line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/vhr/hrserver/src/main/resources/application.properties" timestamp="1544628623328">
+        <mark key="[" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/WebContent/login.jsp" timestamp="1541052645150">
         <mark key="[" line="239" column="55" />
