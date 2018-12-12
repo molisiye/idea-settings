@@ -196,14 +196,17 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/NamiHttp/src/PlainTextBody.java" timestamp="1541343571493">
         <mark key="[" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/function_add.jsp" timestamp="1544599333920">
+        <mark key="[" line="50" column="42" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/interceptor/BosInterceptor.java" timestamp="1542112670964">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Function.hbm.xml" timestamp="1544589615570">
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="35" column="50" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Function.hbm.xml" timestamp="1544599314484">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
         <mark key="^" line="35" column="44" />
-        <mark key="." line="35" column="50" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/UserDaoImpl.java" timestamp="1544578964717">
         <mark key="[" line="33" column="4" />
@@ -639,10 +642,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDxzaGlybzphdXRoZW50aWNhdGVkPgogICAgICAgIDxpbnB1dCB2YWx1ZT0iIi8+CiAgICA8L3NoaXJvOmF1dGhlbnRpY2F0ZWQ+</text>
+        <text>assigned</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmFuc1NldCA=</text>
+        <text>assigned</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
