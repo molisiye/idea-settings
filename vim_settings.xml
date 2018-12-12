@@ -418,11 +418,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/realm.java" timestamp="1544542146620">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/resources/applicationContext.xml" timestamp="1544583679517">
-        <mark key="[" line="90" column="6" />
-        <mark key="]" line="79" column="18" />
-        <mark key="^" line="79" column="18" />
-        <mark key="." line="79" column="18" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/resources/applicationContext.xml" timestamp="1544627941626">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="78" column="18" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/UserDao.java" timestamp="1544579033662">
         <mark key="[" line="8" column="6" />
@@ -672,8 +672,8 @@
       <jump line="69" column="10" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>detachedCriteria</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
       </register>
       <register name="-" type="4">
         <text>detachedCriteria</text>
@@ -685,21 +685,24 @@
         <text encoding="base64">ICAvKioKICAgKiDov5znqIvosIPnlKhjcm3mnI3liqHvvIzojrflj5bmnKrlhbPogZTliLDlrprljLrnmoTlrqLmiLcKICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoRnVuY3Rpb24uY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoRnVuY3Rpb24uY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9wYWdlX2FkbWluX2Z1bmN0aW9uLmFjdGlvbic7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxzaGlybzphdXRoZW50aWNhdGVkPgogICAgICAgIDxpbnB1dCB2YWx1ZT0iIi8+CiAgICA8L3NoaXJvOmF1dGhlbnRpY2F0ZWQ+</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9wYWdlX2FkbWluX2Z1bmN0aW9uLmFjdGlvbic7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgIDxzaGlybzphdXRoZW50aWNhdGVkPgogICAgICAgIDxpbnB1dCB2YWx1ZT0iIi8+CiAgICA8L3NoaXJvOmF1dGhlbnRpY2F0ZWQ+</text>
+      </register>
+      <register name="7" type="4">
         <text>User u = userService.login(model);
 
         if (u != null) {
@@ -712,14 +715,11 @@
           return LOGIN;
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
