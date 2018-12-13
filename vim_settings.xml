@@ -104,10 +104,10 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Role.hbm.xml" timestamp="1544537977812">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="43" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Role.hbm.xml" timestamp="1544674959485">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
         <mark key="^" line="30" column="60" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/FunctionService.java" timestamp="1544599914953">
@@ -280,6 +280,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/action/VisitAction.java" timestamp="1541056059112">
         <mark key="[" line="24" column="15" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/function.jsp" timestamp="1544672988933">
+        <mark key="[" line="43" column="19" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-utils/pom.xml" timestamp="1541471590026">
         <mark key="[" line="12" column="0" />
       </file>
@@ -370,11 +373,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/service/Impl/BaseDictServiceImpl.java" timestamp="1541085803182">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/FunctionService.java" timestamp="1544601701103">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="19" column="30" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/FunctionService.java" timestamp="1544673198175">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808parent/bos1808-entity/pom.xml" timestamp="1541431455813">
         <mark key="[" line="11" column="14" />
@@ -400,8 +403,14 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/DesignPattern/src/VisitorPattern/Body.java" timestamp="1540480767484">
         <mark key="[" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/FunctionAction.java" timestamp="1544599815553">
-        <mark key="[" line="2" column="28" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/FunctionAction.java" timestamp="1544675411122">
+        <mark key="[" line="39" column="70" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/IFunctionService.java" timestamp="1544673367678">
+        <mark key="[" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/Customer.java" timestamp="1540967409888">
         <mark key="[" line="38" column="2" />
@@ -641,6 +650,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808parent/bos1808-web/pom.xml" timestamp="1541470447387">
         <mark key="[" line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/role_add.jsp" timestamp="1544674945764">
+        <mark key="[" line="87" column="42" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/unauthorized.jsp" timestamp="1544540615289">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="6" />
@@ -675,11 +687,11 @@
       <jump line="69" column="10" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
+      <register name="&quot;" type="4">
+        <text>assigned</text>
       </register>
       <register name="-" type="4">
-        <text>detachedCriteria</text>
+        <text>assigned</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
