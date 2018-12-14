@@ -18,8 +18,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/FunctionDaoImpl.java" timestamp="1544676542470">
-        <mark key="[" line="10" column="2" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/FunctionDaoImpl.java" timestamp="1544801081528">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/role.jsp" timestamp="1544771480520">
         <mark key="[" line="50" column="10" />
@@ -226,8 +229,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/interceptor/BosInterceptor.java" timestamp="1542112670964">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Function.hbm.xml" timestamp="1544599314484">
-        <mark key="[" line="7" column="24" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Function.hbm.xml" timestamp="1544801677123">
+        <mark key="[" line="39" column="25" />
         <mark key="]" line="7" column="24" />
         <mark key="^" line="35" column="44" />
         <mark key="." line="7" column="24" />
@@ -272,6 +275,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/DecidedzoneService.java" timestamp="1544077515803">
         <mark key="[" line="8" column="2" />
+      </file>
+      <file name="/sessionFactory" timestamp="1544801295394">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/NoticeBillService.java" timestamp="1544366038462">
         <mark key="[" line="5" column="2" />
@@ -458,11 +464,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/realm/BosRealm.java" timestamp="1544579160629">
-        <mark key="[" line="50" column="11" />
-        <mark key="]" line="50" column="11" />
-        <mark key="^" line="50" column="13" />
-        <mark key="." line="50" column="11" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/realm/BosRealm.java" timestamp="1544800307833">
+        <mark key="[" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/resources/struts.xml" timestamp="1544775317143">
         <mark key="[" line="43" column="6" />
@@ -721,10 +724,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assigned</text>
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>assigned</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -733,41 +736,31 @@
         <text encoding="base64">ICAvKioKICAgKiDov5znqIvosIPnlKhjcm3mnI3liqHvvIzojrflj5bmnKrlhbPogZTliLDlrprljLrnmoTlrqLmiLcKICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhbGVydCgi5re75Yqg55So5oi3Iik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIOS4uueUqOaIt+aOiOadgwogICAgaW5mby5hZGRTdHJpbmdQZXJtaXNzaW9uKCJzdGFmZi1saXN0Iik7CgogICAgLy8gVE9ETzog5ZCO5pyf6ZyA6KaB5L+u5pS55Li65qC55o2u5b2T5YmN55m75b2V55So5oi35p+l6K+i5pWw5o2u5bqT77yM6I635Y+W5a6e6ZmF5a+55bqU55qE5p2D6ZmQCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9yb2xlQWN0aW9uX2FkZC5hY3Rpb24nOwo=</text>
+        <text encoding="base64">CQlhbGVydCgi5re75Yqg55So5oi3Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
+        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9yb2xlQWN0aW9uX2FkZC5hY3Rpb24nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoRnVuY3Rpb24uY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoRnVuY3Rpb24uY2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9wYWdlX2FkbWluX2Z1bmN0aW9uLmFjdGlvbic7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxzaGlybzphdXRoZW50aWNhdGVkPgogICAgICAgIDxpbnB1dCB2YWx1ZT0iIi8+CiAgICA8L3NoaXJvOmF1dGhlbnRpY2F0ZWQ+</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9wYWdlX2FkbWluX2Z1bmN0aW9uLmFjdGlvbic7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>User u = userService.login(model);
-
-        if (u != null) {
-          // 登陆成功，将 user 对象放入 session ，跳转到首页
-          session.put(&quot;loginUser&quot;, u);
-          return HOME;
-        } else {
-          // 登录失败，设置提示信息，跳转到登录页面
-          this.addActionError(&quot;用户名或密码错误！&quot;);
-          return LOGIN;
-        }</text>
+        <text encoding="base64">ICAgIDxzaGlybzphdXRoZW50aWNhdGVkPgogICAgICAgIDxpbnB1dCB2YWx1ZT0iIi8+CiAgICA8L3NoaXJvOmF1dGhlbnRpY2F0ZWQ+</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
