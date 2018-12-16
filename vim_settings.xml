@@ -87,8 +87,17 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/RoleService.java" timestamp="1544773744886">
         <mark key="[" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/SubareaAction.java" timestamp="1544970571612">
+        <mark key="[" line="136" column="20" />
+        <mark key="]" line="116" column="19" />
+        <mark key="^" line="116" column="19" />
+        <mark key="." line="116" column="19" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/RegionDao.java" timestamp="1544070745766">
         <mark key="[" line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/SubareaDaoImpl.java" timestamp="1544970677274">
+        <mark key="[" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/com/tz/crm/service/impl/CustomerServiceImpl.java" timestamp="1544354122510">
         <mark key="[" line="95" column="0" />
@@ -340,8 +349,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/webapp/WEB-INF/web.xml" timestamp="1541862515665">
         <mark key="[" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/SubareaService.java" timestamp="1544109051899">
-        <mark key="[" line="55" column="4" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/SubareaService.java" timestamp="1544970631488">
+        <mark key="[" line="58" column="13" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
@@ -386,6 +395,12 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" timestamp="1544972182973">
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/artifacts/tzcrm_war_exploded/index.html" timestamp="1540897298199">
         <mark key="[" line="67" column="98" />
@@ -728,11 +743,11 @@
       <jump line="69" column="10" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvaGlnaGNoYXJ0cy8iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>addSubareaWindow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -740,32 +755,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiDov5znqIvosIPnlKhjcm3mnI3liqHvvIzojrflj5bmnKrlhbPogZTliLDlrprljLrnmoTlrqLmiLcKICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHsKICAgIAogIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvaGlnaGNoYXJ0cy8iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIOS4uueUqOaIt+aOiOadgwogICAgaW5mby5hZGRTdHJpbmdQZXJtaXNzaW9uKCJzdGFmZi1saXN0Iik7CgogICAgLy8gVE9ETzog5ZCO5pyf6ZyA6KaB5L+u5pS55Li65qC55o2u5b2T5YmN55m75b2V55So5oi35p+l6K+i5pWw5o2u5bqT77yM6I635Y+W5a6e6ZmF5a+55bqU55qE5p2D6ZmQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhbGVydCgi5re75Yqg55So5oi3Iik7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9yb2xlQWN0aW9uX2FkZC5hY3Rpb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZGF0YWdyaWQtdG9vbGJhciI+CiAgICAgICAgICAgICAgICA8YSBpZD0ic2F2ZSIgaWNvbj0iaWNvbi1zYXZlIiBocmVmPSIjIiBjbGFzcz0iZWFzeXVpLWxpbmtidXR0b24iIHBsYWluPSJ0cnVlIiA+5L+d5a2YPC9hPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgIAogIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERldGFjaGVkQ3JpdGVyaWEgZGV0YWNoZWRDcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuZm9yQ2xhc3MoRnVuY3Rpb24uY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgIC8vIOS4uueUqOaIt+aOiOadgwogICAgaW5mby5hZGRTdHJpbmdQZXJtaXNzaW9uKCJzdGFmZi1saXN0Iik7CgogICAgLy8gVE9ETzog5ZCO5pyf6ZyA6KaB5L+u5pS55Li65qC55o2u5b2T5YmN55m75b2V55So5oi35p+l6K+i5pWw5o2u5bqT77yM6I635Y+W5a6e6ZmF5a+55bqU55qE5p2D6ZmQCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">CQlhbGVydCgi5re75Yqg55So5oi3Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9wYWdlX2FkbWluX2Z1bmN0aW9uLmFjdGlvbic7Cg==</text>
+        <text encoding="base64">CQkJbG9jYXRpb24uaHJlZj0nJHtwYWdlQ29udGV4dC5yZXF1ZXN0LmNvbnRleHRQYXRofS9yb2xlQWN0aW9uX2FkZC5hY3Rpb24nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAvbG9naW4uanNwID0gYW5vbgo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
