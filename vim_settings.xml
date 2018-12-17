@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OneDrive/java-source/codeutil/src/main/java/templet/Code.java" timestamp="1545034534508" />
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/role.jsp" timestamp="1544771480520">
         <mark key="[" line="50" column="10" />
       </file>
@@ -231,8 +232,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/realm.java" timestamp="1544542146620">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-source/codeutil/src/main/java/ui/CodeUtil.java" timestamp="1545033363783">
-        <mark key="[" line="399" column="65" />
+      <file name="$USER_HOME$/OneDrive/java-source/codeutil/src/main/java/ui/CodeUtil.java" timestamp="1545034981125">
+        <mark key="[" line="471" column="56" />
+        <mark key="]" line="449" column="57" />
+        <mark key="^" line="449" column="57" />
+        <mark key="." line="449" column="57" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/resources/applicationContext.xml" timestamp="1545014878280">
         <mark key="[" line="114" column="103" />
@@ -587,6 +591,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/WorkordermanageService.java" timestamp="1544420391595">
         <mark key="[" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-source/codeutil/src/main/java/templet/ClientTempletUtil.java" timestamp="1545034927893">
+        <mark key="[" line="38" column="86" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/json/subarea.json" timestamp="1543907146867">
         <mark key="[" line="3" column="113" />
         <mark key="]" line="6" column="3" />
@@ -790,10 +797,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAKICBwdWJsaWMgdm9pZCBzcGVjaWZpY2F0aW9ucygpIHsKICAgIChTcGVjaWZpY2F0aW9uPExhYmVsPikgKHJvb3QsIGNyaXRlcmlhUXVlcnksIGNyaXRlcmlhQnVpbGRlcikgLT4gewogICAgICAvLyBuZXcg5LiA5LiqIGxpc3Qg6ZuG5ZCI77yM5p2l5a2Y5pS+5omA5pyJ55qE5p2h5Lu2CiAgICAgIExpc3Q8UHJlZGljYXRlPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIGlmIChsYWJlbC5nZXRMYWJlbE5hbWUoKSAhPSBudWxsICYmICEiIi5lcXVhbHMobGFiZWwuZ2V0TGFiZWxOYW1lKCkpKSB7CiAgICAgICAgUHJlZGljYXRlIHByZWRpY2F0ZSA9IGNyaXRlcmlhQnVpbGRlci5saWtlKHJvb3QuZ2V0KCJsYWJlbG5hbWUiKS5hcyhTdHJpbmcuY2xhc3MpLCAiJSIgKyBsYWJlbC5nZXRMYWJlbE5hbWUoKSArICIlIik7CiAgICAgICAgbGlzdC5hZGQocHJlZGljYXRlKTsKICAgICAgfQogICAgICBpZiAobGFiZWwuZ2V0U3RhdGUoKSAhPSBudWxsICYmICEiIi5lcXVhbHMobGFiZWwuZ2V0U3RhdGUoKSkpIHsKICAgICAgICBQcmVkaWNhdGUgcHJlZGljYXRlID0gY3JpdGVyaWFCdWlsZGVyLmVxdWFsKHJvb3QuZ2V0KCJzdGF0ZSIpLmFzKFN0cmluZy5jbGFzcyksIGxhYmVsLmdldFN0YXRlKCkpOwogICAgICAgIGxpc3QuYWRkKHByZWRpY2F0ZSk7CiAgICAgIH0KICAgICAgLy8gbmV3IOS4gOS4quaVsOaNruS9nOS4uuacgOe7iOi/lOWbnuWAvOeahOadoeS7tgogICAgICBQcmVkaWNhdGVbXSBwYXJyID0gbmV3IFByZWRpY2F0ZVtsaXN0LnNpemUoKV07CiAgICAgIC8vIOaKiiBsaXN0IOebtOaOpei9rOaNoueoi+aVsOe7hAogICAgICBsaXN0LnRvQXJyYXkocGFycik7CiAgICAgIHJldHVybiBjcml0ZXJpYUJ1aWxkZXIuYW5kKHBhcnIpOwogICAgfQogIH0=</text>
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
