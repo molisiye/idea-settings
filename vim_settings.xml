@@ -234,8 +234,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/service/LabelService.java" timestamp="1544516683049">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/service/LabelService.java" timestamp="1545020622909">
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="52" column="45" />
+        <mark key="^" line="52" column="45" />
+        <mark key="." line="52" column="45" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/AreaServiceImpl.java" timestamp="1543402755158">
         <mark key="[" line="9" column="0" />
@@ -713,11 +716,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/service/UserService.java" timestamp="1540266854349">
         <mark key="[" line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/controller/LabelController.java" timestamp="1544530352456">
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/controller/LabelController.java" timestamp="1545020073075">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+        <mark key="." line="49" column="50" />
       </file>
       <file name="$USER_HOME$/github/vhr/hrserver/src/main/resources/application.properties" timestamp="1544628623328">
         <mark key="[" line="4" column="31" />
