@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'tzcrm-ano'" />
-    <option name="defaultScopeName" value="Project 'tzcrm-ano'" />
-    <option name="SEARCH_SCOPE" value="Project 'tzcrm-ano'" />
+    <option name="customScope" value="Project 'codeutil'" />
+    <option name="defaultScopeName" value="Project 'codeutil'" />
+    <option name="SEARCH_SCOPE" value="Project 'codeutil'" />
   </component>
 </application>
