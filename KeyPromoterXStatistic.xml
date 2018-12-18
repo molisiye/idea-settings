@@ -137,6 +137,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit Configuration...">
+        <Item>
+          <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Configuration...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Execute">
         <Item>
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
@@ -297,6 +305,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'QaApplication.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'QaApplication.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'RecruitDao.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -326,6 +342,14 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Configuration">
+        <Item>
+          <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Configuration</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -446,7 +470,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Features in: crmwsdl'">
@@ -454,6 +478,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Features in: crmwsdl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Application'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Application'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -486,7 +518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'DatabaseUtil'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DatabaseUtil.main()'">
@@ -511,6 +543,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Main'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'QaApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'QaApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RecruitApplication'">
@@ -633,6 +673,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Configurations">
+        <Item>
+          <IdeaActionID>RunDashboard.ShowConfigurations</IdeaActionID>
+          <ShortCut>'⇧⌘T'</ShortCut>
+          <Description>Show Configurations</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Dependencies Popup...">
         <Item>
           <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
@@ -687,6 +735,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>1365</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DatabaseUtil'">
