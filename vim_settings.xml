@@ -81,10 +81,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/FunctionalInterfaceDemo/src/FunctionDemo.java" timestamp="1540439907069">
         <mark key="[" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/source/codeutil/src/main/java/ui/dbUtil.java" timestamp="1545186944325">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/source/codeutil/src/main/java/ui/dbUtil.java" timestamp="1545187926933">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/BaseDaoImpl.java" timestamp="1541063154406">
         <mark key="[" line="14" column="0" />
@@ -440,7 +441,9 @@
       <file name="/Class.txt.ft" timestamp="1540531932903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/codeutil/src/main/java/ui/DatabaseUtil.java" timestamp="1545186820655" />
+      <file name="$USER_HOME$/source/codeutil/src/main/java/ui/DatabaseUtil.java" timestamp="1545187791136">
+        <mark key="[" line="387" column="96" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-utils/pom.xml" timestamp="1541471590026">
         <mark key="[" line="12" column="0" />
       </file>
@@ -852,10 +855,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGFkZFdpbmRvd0xpc3RlbmVyKG5ldyBXaW5kb3dBZGFwdGVyKCkgewoKCiAgICB9KQogIH0=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -927,6 +930,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
