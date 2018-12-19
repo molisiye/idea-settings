@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'codeutil'" />
-    <option name="defaultScopeName" value="Project 'codeutil'" />
-    <option name="SEARCH_SCOPE" value="Project 'codeutil'" />
+    <option name="customScope" value="Module 'tensquare_spit'" />
+    <option name="defaultScopeName" value="Module 'tensquare_spit'" />
+    <option name="SEARCH_SCOPE" value="Module 'tensquare_spit'" />
   </component>
 </application>
