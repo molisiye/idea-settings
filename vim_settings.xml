@@ -51,8 +51,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/FunctionalInterfaceDemo/src/FunctionDemo.java" timestamp="1540439907069">
         <mark key="[" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/source/codeutil/src/main/java/ui/dbUtil.java" timestamp="1545277349998">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/source/codeutil/src/main/java/ui/dbUtil.java" timestamp="1545278619712">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/BaseDaoImpl.java" timestamp="1541063154406">
         <mark key="[" line="14" column="0" />
@@ -789,8 +791,8 @@
       <jump line="139" column="2" filename="C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/com/sun/jndi/ldap/LdapClient.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tensquare_article</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RGF0YVNvdXJjZQo=</text>
       </register>
       <register name="-" type="4">
         <text>tensquare_article</text>
@@ -801,32 +803,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiDov5znqIvosIPnlKhjcm3mnI3liqHvvIzojrflj5bmnKrlhbPogZTliLDlrprljLrnmoTlrqLmiLcKICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgPGFjdGlvbiBuYW1lPSJhcmVhQWN0aW9uXyoiIGNsYXNzPSJhcmVhQWN0aW9uIiBtZXRob2Q9InsxfSI+CiAgICA8L2FjdGlvbj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">RGF0YVNvdXJjZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNvbnRyb2xsZXIKICAgICAgICBCYXNlRXhjZXB0aW9uSGFuZGxlci5qYXZhCiAgICAgICAgRW50ZXJwcmlzZUNvbnRyb2xsZXIuamF2YQogICAgICAgIFJlY3J1aXRDb250cm9sbGVyLmphdmEKICAgICAgICBkYW8KICAgICAgICBwb2pvCiAgICAgICAgRW50ZXJwcmlzZS5qYXZhCiAgICAgICAgUmVjcnVpdC5qYXZhCiAgICAgICAgc2VydmljZQogICAgICAgIEFwcGxpY2F0aW9uLmphdmE=</text>
+      <register name="2" type="2">
+        <text encoding="base64">UG9vbGVkQ29ubmVjdGlvbkZhY3RvcnkK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CgogICAgPGFjdGlvbiBuYW1lPSJhcmVhQWN0aW9uXyoiIGNsYXNzPSJhcmVhQWN0aW9uIiBtZXRob2Q9InsxfSI+CiAgICA8L2FjdGlvbj4=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmNvbnRyb2xsZXIKICAgICAgICBCYXNlRXhjZXB0aW9uSGFuZGxlci5qYXZhCiAgICAgICAgRW50ZXJwcmlzZUNvbnRyb2xsZXIuamF2YQogICAgICAgIFJlY3J1aXRDb250cm9sbGVyLmphdmEKICAgICAgICBkYW8KICAgICAgICBwb2pvCiAgICAgICAgRW50ZXJwcmlzZS5qYXZhCiAgICAgICAgUmVjcnVpdC5qYXZhCiAgICAgICAgc2VydmljZQogICAgICAgIEFwcGxpY2F0aW9uLmphdmE=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAKICBwdWJsaWMgdm9pZCBzcGVjaWZpY2F0aW9ucygpIHsKICAgIChTcGVjaWZpY2F0aW9uPExhYmVsPikgKHJvb3QsIGNyaXRlcmlhUXVlcnksIGNyaXRlcmlhQnVpbGRlcikgLT4gewogICAgICAvLyBuZXcg5Lg/5Lg/IGxpc3Qg6ZuG5ZCI77yM5p2l5a2Y5pS+5ok/5pyJ55qE5p2h5Lu2CiAgICAgIExpc3Q8UHJlZGljYXRlPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIGlmIChsYWJlbC5nZXRMYWJlbE5hbWUoKSAhPSBudWxsICYmICEiIi5lcXVhbHMobGFiZWwuZ2V0TGFiZWxOYW1lKCkpKSB7CiAgICAgICAgUHJlZGljYXRlIHByZWRpY2F0ZSA9IGNyaXRlcmlhQnVpbGRlci5saWtlKHJvb3QuZ2V0KCJsYWJlbG5hbWUiKS5hcyhTdHJpbmcuY2xhc3MpLCAiJSIgKyBsYWJlbC5nZXRMYWJlbE5hbWUoKSArICIlIik7CiAgICAgICAgbGlzdC5hZGQocHJlZGljYXRlKTsKICAgICAgfQogICAgICBpZiAobGFiZWwuZ2V0U3RhdGUoKSAhPSBudWxsICYmICEiIi5lcXVhbHMobGFiZWwuZ2V0U3RhdGUoKSkpIHsKICAgICAgICBQcmVkaWNhdGUgcHJlZGljYXRlID0gY3JpdGVyaWFCdWlsZGVyLmVxdWFsKHJvb3QuZ2V0KCJzdGF0ZSIpLmFzKFN0cmluZy5jbGFzcyksIGxhYmVsLmdldFN0YXRlKCkpOwogICAgICAgIGxpc3QuYWRkKHByZWRpY2F0ZSk7CiAgICAgIH0KICAgICAgLy8gbmV3IOS4P+S4quaVsOaNruS9nOS4uuacgOe7iOi/lOWbnuU/vOeahOadoeS7tgogICAgICBQcmVkaWNhdGVbXSBwYXJyID0gbmV3IFByZWRpY2F0ZVtsaXN0LnNpemUoKV07CiAgICAgIC8vIOaKPyBsaXN0IOebtOaOpei9rOaNoueoi+aVsOe7PwogICAgICBsaXN0LnRvQXJyYXkocGFycik7CiAgICAgIHJldHVybiBjcml0ZXJpYUJ1aWxkZXIuYW5kKHBhcnIpOwogICAgfQogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNuLml0Y2FzdC5ib3MuZG9tYWluLldvcmtiaWxsOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNuLml0Y2FzdC5ib3MuZGFvLklXb3JrYmlsbERhbzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvaGlnaGNoYXJ0cy8iPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvaGlnaGNoYXJ0cy8iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
@@ -865,6 +867,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
