@@ -89,6 +89,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TestMybatis.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'TestMybatis.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'fun03()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>110</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -518,7 +526,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>294</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -782,7 +790,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -798,7 +806,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1375</Count>
+          <Count>1379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -958,7 +966,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

@@ -270,6 +270,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/test/java/com/zhm/test/TestMybatis.java" timestamp="1545406328059">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/AreaServiceImpl.java" timestamp="1543402755158">
         <mark key="[" line="9" column="0" />
       </file>
@@ -284,6 +290,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/LinkmanDaoImpl.java" timestamp="1541059986950">
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/java/com/zhm/mapping/StudentMapper.java" timestamp="1545405628395">
+        <mark key="[" line="7" column="2" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/action/UserAction.java" timestamp="1541051403121">
         <mark key="[" line="38" column="15" />
@@ -726,8 +735,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/BaseDaoImpl.java" timestamp="1541063154406">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/db.properties" timestamp="1541864318348">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/db.properties" timestamp="1545406648713">
+        <mark key="[" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/resource/struts.xml" timestamp="1541061582782">
         <mark key="[" line="11" column="2" />
