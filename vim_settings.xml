@@ -270,11 +270,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/test/java/com/zhm/test/TestMybatis.java" timestamp="1545406328059">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="22" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/test/java/com/zhm/test/TestMybatis.java" timestamp="1545408312552">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/AreaServiceImpl.java" timestamp="1543402755158">
         <mark key="[" line="9" column="0" />
@@ -727,10 +727,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/FunctionalInterfaceDemo/src/StreamDemo.java" timestamp="1541479592513">
         <mark key="[" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/com/zhm/mapping/StudentMapper.xml" timestamp="1545404148267">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/com/zhm/mapping/StudentMapper.xml" timestamp="1545407750970">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/BaseDaoImpl.java" timestamp="1541063154406">
         <mark key="[" line="14" column="0" />
@@ -816,8 +817,8 @@
       <jump line="34" column="32" filename="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/controller/SpitController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">5aSN5Yi25Luj56CBCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgcmV0dXJuIGlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SWQoU3RyaW5nIGlkKSB7CiAgICB0aGlzLmlkID0gaWQ7CiAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -828,32 +829,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAvKioKICAgKiDov5znqIvosIPnlKhjcm3mnI3liqHvvIzojrflj5bmnKrlhbPogZTliLDlrprljLrnmoTlrqLmiLcKICAgKiBAcmV0dXJuCiAgICovCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgcmV0dXJuIGlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SWQoU3RyaW5nIGlkKSB7CiAgICB0aGlzLmlkID0gaWQ7CiAgfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">5aSN5Yi25Luj56CBCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CgogICAgPGFjdGlvbiBuYW1lPSJhcmVhQWN0aW9uXyoiIGNsYXNzPSJhcmVhQWN0aW9uIiBtZXRob2Q9InsxfSI+CiAgICA8L2FjdGlvbj4=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmNvbnRyb2xsZXIKICAgICAgICBCYXNlRXhjZXB0aW9uSGFuZGxlci5qYXZhCiAgICAgICAgRW50ZXJwcmlzZUNvbnRyb2xsZXIuamF2YQogICAgICAgIFJlY3J1aXRDb250cm9sbGVyLmphdmEKICAgICAgICBkYW8KICAgICAgICBwb2pvCiAgICAgICAgRW50ZXJwcmlzZS5qYXZhCiAgICAgICAgUmVjcnVpdC5qYXZhCiAgICAgICAgc2VydmljZQogICAgICAgIEFwcGxpY2F0aW9uLmphdmE=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAKICBwdWJsaWMgdm9pZCBzcGVjaWZpY2F0aW9ucygpIHsKICAgIChTcGVjaWZpY2F0aW9uPExhYmVsPikgKHJvb3QsIGNyaXRlcmlhUXVlcnksIGNyaXRlcmlhQnVpbGRlcikgLT4gewogICAgICAvLyBuZXcg5LiA5LiqIGxpc3Qg6ZuG5ZCI77yM5p2l5a2Y5pS+5omA5pyJ55qE5p2h5Lu2CiAgICAgIExpc3Q8UHJlZGljYXRlPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIGlmIChsYWJlbC5nZXRMYWJlbE5hbWUoKSAhPSBudWxsICYmICEiIi5lcXVhbHMobGFiZWwuZ2V0TGFiZWxOYW1lKCkpKSB7CiAgICAgICAgUHJlZGljYXRlIHByZWRpY2F0ZSA9IGNyaXRlcmlhQnVpbGRlci5saWtlKHJvb3QuZ2V0KCJsYWJlbG5hbWUiKS5hcyhTdHJpbmcuY2xhc3MpLCAiJSIgKyBsYWJlbC5nZXRMYWJlbE5hbWUoKSArICIlIik7CiAgICAgICAgbGlzdC5hZGQocHJlZGljYXRlKTsKICAgICAgfQogICAgICBpZiAobGFiZWwuZ2V0U3RhdGUoKSAhPSBudWxsICYmICEiIi5lcXVhbHMobGFiZWwuZ2V0U3RhdGUoKSkpIHsKICAgICAgICBQcmVkaWNhdGUgcHJlZGljYXRlID0gY3JpdGVyaWFCdWlsZGVyLmVxdWFsKHJvb3QuZ2V0KCJzdGF0ZSIpLmFzKFN0cmluZy5jbGFzcyksIGxhYmVsLmdldFN0YXRlKCkpOwogICAgICAgIGxpc3QuYWRkKHByZWRpY2F0ZSk7CiAgICAgIH0KICAgICAgLy8gbmV3IOS4gOS4quaVsOaNruS9nOS4uuacgOe7iOi/lOWbnuWAvOeahOadoeS7tgogICAgICBQcmVkaWNhdGVbXSBwYXJyID0gbmV3IFByZWRpY2F0ZVtsaXN0LnNpemUoKV07CiAgICAgIC8vIOaKiiBsaXN0IOebtOaOpei9rOaNoueoi+aVsOe7hAogICAgICBsaXN0LnRvQXJyYXkocGFycik7CiAgICAgIHJldHVybiBjcml0ZXJpYUJ1aWxkZXIuYW5kKHBhcnIpOwogICAgfQogIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNuLml0Y2FzdC5ib3MuZG9tYWluLldvcmtiaWxsOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNuLml0Y2FzdC5ib3MuZGFvLklXb3JrYmlsbERhbzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvaGlnaGNoYXJ0cy8iPjwvc2NyaXB0Pgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvaGlnaGNoYXJ0cy8iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
