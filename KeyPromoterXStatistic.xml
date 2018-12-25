@@ -113,6 +113,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'test()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'test()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'tomcat7:run'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -550,7 +558,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>296</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -734,7 +742,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'test()'</Description>
-          <Count>5</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testParseExpression()'">
@@ -854,7 +862,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1384</Count>
+          <Count>1387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -1022,7 +1030,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>99</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
