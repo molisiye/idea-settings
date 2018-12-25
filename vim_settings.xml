@@ -284,7 +284,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/test/java/com/zhm/test/TestMybatis.java" timestamp="1545748943813">
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/test/java/com/zhm/test/TestMybatis.java" timestamp="1545750375843">
         <mark key="[" line="24" column="32" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -675,6 +675,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_article/pom.xml" timestamp="1545115282638">
         <mark key="[" line="15" column="46" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/mybatis.xml" timestamp="1545750563007">
+        <mark key="[" line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/RoleDao.java" timestamp="1544771916965">
         <mark key="[" line="2" column="25" />
       </file>
@@ -757,11 +760,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/FunctionalInterfaceDemo/src/StreamDemo.java" timestamp="1541479592513">
         <mark key="[" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/com/zhm/mapping/StudentMapper.xml" timestamp="1545749471222">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/com/zhm/mapping/StudentMapper.xml" timestamp="1545750359268">
+        <mark key="'" line="30" column="114" />
+        <mark key="[" line="30" column="154" />
+        <mark key="]" line="30" column="145" />
+        <mark key="." line="30" column="145" />
+        <mark key="^" line="30" column="145" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/BaseDaoImpl.java" timestamp="1541063154406">
         <mark key="[" line="14" column="0" />
@@ -845,16 +849,17 @@
       <jump line="239" column="34" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" />
       <jump line="69" column="10" filename="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
       <jump line="34" column="32" filename="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/controller/SpitController.java" />
+      <jump line="30" column="114" filename="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/com/zhm/mapping/StudentMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vU3RyaW5nIHJlc291cmNlID0gIm15YmF0aXMueG1sIjsKICAgIFJlYWRlciByZWFkZXIgPSBSZXNvdXJjZXMuZ2V0UmVzb3VyY2VBc1JlYWRlcigibXliYXRpcy54bWwiKTsKICAgIFNxbFNlc3Npb25GYWN0b3J5IHNxbFNlc3Npb25GYWN0b3J5ID0gbmV3IFNxbFNlc3Npb25GYWN0b3J5QnVpbGRlcigpLmJ1aWxkKHJlYWRlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwvXD4=</text>
+        <text encoding="base64">XDxob21ldGVsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
@@ -891,15 +896,19 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwvXD4=</last-search>
+      <last-search encoding="base64">XDxob21ldGVsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwvXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxob21ldGVsXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxjbGFzc25hbWVcPg==</entry>
+        <entry encoding="base64">XDxtYWpvclw+</entry>
+        <entry encoding="base64">XDxhZGRyZXNzXD4=</entry>
+        <entry encoding="base64">XDxob21ldGVsXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
