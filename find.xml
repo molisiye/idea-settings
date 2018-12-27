@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'tensquare_spit'" />
-    <option name="defaultScopeName" value="Module 'tensquare_spit'" />
-    <option name="SEARCH_SCOPE" value="Module 'tensquare_spit'" />
+    <option name="customScope" value="Project 'bos1808ssm-parent'" />
+    <option name="defaultScopeName" value="Project 'bos1808ssm-parent'" />
+    <option name="SEARCH_SCOPE" value="Project 'bos1808ssm-parent'" />
   </component>
 </application>
