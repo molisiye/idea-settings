@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>251</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -511,6 +511,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'bos1808-parent [install]'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'bos1808-web [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'bos1808-web [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cms'">
@@ -1014,7 +1022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'bos1808-web [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'cms'">
