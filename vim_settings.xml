@@ -485,11 +485,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_common/src/main/java/entity/PageResult.java" timestamp="1544512400014">
         <mark key="[" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/UserService.java" timestamp="1544775204153">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="32" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/UserService.java" timestamp="1546008717488">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="36" column="32" />
+        <mark key="^" line="36" column="32" />
+        <mark key="." line="36" column="32" />
       </file>
       <file name="/Class.txt.ft" timestamp="1545661537456">
         <mark key="[" line="0" column="0" />
@@ -506,11 +506,6 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_common/src/main/java/entity/Result.java" timestamp="1544512094438">
         <mark key="[" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/pom.xml" timestamp="1545978980720">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/DecidedzoneDaoImpl.java" timestamp="1543914596234">
         <mark key="[" line="7" column="31" />
       </file>
@@ -521,11 +516,6 @@
         <mark key="[" line="25" column="27" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/pom.xml" timestamp="1545885824347">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-dao/src/main/java/com/tz/bos/dao/WorkordermanageDao.java" timestamp="1545892336201">
         <mark key="[" line="2" column="36" />
@@ -737,7 +727,7 @@
         <mark key="^" line="71" column="23" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/RoleAction.java" timestamp="1544773706561">
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/RoleAction.java" timestamp="1546009576467">
         <mark key="[" line="41" column="3" />
         <mark key="]" line="39" column="15" />
         <mark key="^" line="39" column="15" />
@@ -754,11 +744,6 @@
         <mark key="]" line="97" column="111" />
         <mark key="." line="97" column="111" />
         <mark key="^" line="97" column="111" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-web/src/main/resources/springmvc.xml" timestamp="1545887473425">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_service/src/main/java/com/zzm/bos/service/FunctionService.java" timestamp="1545997826631">
         <mark key="[" line="10" column="30" />
@@ -1036,11 +1021,6 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/web.xml" timestamp="1544539994900">
         <mark key="[" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_service/pom.xml" timestamp="1545978495629">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/service/UserService.java" timestamp="1540266854349">
         <mark key="[" line="24" column="9" />
       </file>
@@ -1082,6 +1062,12 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808parent/bos1808-web/pom.xml" timestamp="1541470447387">
         <mark key="[" line="25" column="4" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/role_add.jsp" timestamp="1546009886808">
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="79" column="30" />
+        <mark key="^" line="79" column="30" />
+        <mark key="." line="79" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/webapp/WEB-INF/jsp/list1.jsp" timestamp="1545836572797">
         <mark key="[" line="10" column="36" />
