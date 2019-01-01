@@ -533,6 +533,12 @@
         <mark key="^" line="17" column="77" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/customer/Customer1.java" timestamp="1546340692368">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_util/pom.xml" timestamp="1545978516180">
         <mark key="[" line="20" column="0" />
       </file>
@@ -945,8 +951,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546339258626">
-        <mark key="[" line="10" column="3" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546340584841">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
@@ -1195,11 +1204,11 @@
       <jump line="70" column="98" filename="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/test/stream/StreamTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5hcnJheWNvcHkoKTsKICAgIEFycmF5cy5jb3B5T2YoKTsKICAgIFN0cmluZy4K</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
