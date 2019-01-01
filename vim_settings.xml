@@ -203,6 +203,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Region.hbm.xml" timestamp="1543298545668">
         <mark key="[" line="25" column="46" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/customer/Customer2.java" timestamp="1546341665932">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/BaseDict.java" timestamp="1540348932650">
         <mark key="[" line="1" column="0" />
       </file>
@@ -533,11 +539,11 @@
         <mark key="^" line="17" column="77" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/customer/Customer1.java" timestamp="1546340692368">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="15" column="42" />
-        <mark key="^" line="15" column="42" />
-        <mark key="." line="15" column="42" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/customer/Customer1.java" timestamp="1546341646173">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_util/pom.xml" timestamp="1545978516180">
         <mark key="[" line="20" column="0" />
@@ -561,7 +567,7 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1546158644654">
+      <file name="/fragment.java" timestamp="1546341676927">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/test/Demo.java" timestamp="1541556887179">
@@ -803,6 +809,12 @@
         <mark key="." line="97" column="111" />
         <mark key="^" line="97" column="111" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/customer/Customer3.java" timestamp="1546341691586">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/resources/mapper/RegionMapper.xml" timestamp="1546065961052">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="8" column="0" />
@@ -951,11 +963,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546340584841">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="1" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546341608246">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="52" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
@@ -1205,10 +1217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>itheima</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>itheima</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
