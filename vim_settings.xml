@@ -441,6 +441,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/webapp/WEB-INF/pages/base/staff.jsp" timestamp="1546064078834">
         <mark key="[" line="172" column="79" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/pom.xml" timestamp="1546339051683">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffController.java" timestamp="1545895736663">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="14" column="7" />
@@ -664,6 +667,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/RabbitApplication.java" timestamp="1546339204976">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/test/lambda/lambda.java" timestamp="1546089742849">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -795,6 +804,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_service/src/main/java/com/zzm/bos/service/FunctionService.java" timestamp="1545997826631">
         <mark key="[" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/resources/application.xml" timestamp="1546339122746">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_recruit/src/main/java/com/tensquare/recruit/dao/RecruitDao.java" timestamp="1545106502583">
         <mark key="[" line="15" column="48" />
@@ -932,6 +944,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546339258626">
+        <mark key="[" line="10" column="3" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
