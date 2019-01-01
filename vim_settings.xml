@@ -963,11 +963,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546341608246">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="27" column="52" />
-        <mark key="^" line="27" column="52" />
-        <mark key="." line="27" column="52" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/test/java/com/tensquare/test/ProductTest.java" timestamp="1546343292041">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="41" column="35" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
@@ -1217,10 +1217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>itheima</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>itheima</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
