@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/role.jsp" timestamp="1544771480520">
         <mark key="[" line="50" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1545811162380">
+      <file name="/a.dummy" timestamp="1546349534980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/dao/Impl/UserDaoImpl.java" timestamp="1542095312111">
@@ -80,6 +80,12 @@
         <mark key="^" line="42" column="2" />
         <mark key="." line="42" column="2" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/service/UserService.java" timestamp="1546350225042">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="184" column="2" />
+        <mark key="^" line="184" column="2" />
+        <mark key="." line="184" column="2" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_recruit/pom.xml" timestamp="1545031308364">
         <mark key="[" line="18" column="4" />
       </file>
@@ -132,6 +138,12 @@
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/controller/UserController.java" timestamp="1546349756222">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/VisitDao.java" timestamp="1540962999891">
         <mark key="[" line="2" column="26" />
@@ -456,6 +468,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/pom.xml" timestamp="1546339051683">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_user/src/main/resources/application.yml" timestamp="1546350593486">
+        <mark key="[" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffController.java" timestamp="1545895736663">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="14" column="7" />
@@ -578,6 +593,11 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/test/Demo.java" timestamp="1541556887179">
         <mark key="[" line="144" column="70" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_user/pom.xml" timestamp="1546350299308">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/AreaDaoImpl.java" timestamp="1543402883573">
         <mark key="[" line="9" column="25" />
@@ -978,6 +998,11 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="41" column="35" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/pom.xml" timestamp="1546349475868">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
       </file>
@@ -987,7 +1012,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/realm/BosRealm.java" timestamp="1544800307833">
         <mark key="[" line="38" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_article/pom.xml" timestamp="1545115282638">
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_article/pom.xml" timestamp="1546350294259">
         <mark key="[" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/resources/mybatis.xml" timestamp="1545839091148">
@@ -1229,10 +1254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmNvbW1vbnM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbGFuZzM8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Administrator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
@@ -1240,32 +1265,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5hcnJheWNvcHkoKTsKICAgIEFycmF5cy5jb3B5T2YoKTsKICAgIFN0cmluZy4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmNvbW1vbnM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbGFuZzM8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXJyYXlzLgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5hcnJheWNvcHkoKTsKICAgIEFycmF5cy5jb3B5T2YoKTsKICAgIFN0cmluZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEl0ZXJhdG9yCg==</text>
+        <text encoding="base64">QXJyYXlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQobmV3IEVtcGxveWVlKCJ0ZXN0MTQiLCAyMikpOwo=</text>
+        <text encoding="base64">ICAgIEl0ZXJhdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpc3QuYWRkKG5ldyBFbXBsb3llZSgidGVzdDIiLCAyMikpOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwo=</text>
+        <text encoding="base64">ICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQobmV3IEVtcGxveWVlKCJ0ZXN0MTQiLCAyMikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTMiLCAyMiksCg==</text>
+        <text encoding="base64">ICAgIGxpc3QuYWRkKG5ldyBFbXBsb3llZSgidGVzdDIiLCAyMikpOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTIiLCAyMiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTMiLCAyMiksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTEiLCAyMiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTIiLCAyMiksCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vIOaUtumbhuS4uuS4gOS4qiBtYXAsIGtleemHjeWkje+8jOaaguS4jeino+WGswogICAgTWFwPENsYXNzPD8gZXh0ZW5kcyBFbXBsb3llZT4sIE9iamVjdD4gcmVzdWx0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgZm9yIChFbXBsb3llZSBlIDogbGlzdCkgewogICAgICByZXN1bHQubWVyZ2UoZS5nZXRDbGFzcygpLCBlLCBJZGVudGl0eUhhc2hNYXA6Om5ldyk7CiAgICB9CiAgICBJZGVudGl0eUhhc2hNYXA8Q2xhc3MsIEVtcGxveWVlPiBtYXAgPSByZXN1bHQ7CiAgICBtYXAuZm9yRWFjaCgoa2V5LCB2YWx1ZSkgLT4gU3lzdGVtLm91dC5wcmludGxuKGtleSArICI6IiArIHZhbHVlKSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFwKTsKICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTEiLCAyMiksCg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
