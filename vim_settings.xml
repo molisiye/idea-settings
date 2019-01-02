@@ -12,13 +12,16 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_search/src/main/resources/application.yml" timestamp="1545709159315">
         <mark key="[" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/java/com/zzm/crud/bean/Employee.java" timestamp="1546401270698">
+        <mark key="[" line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-web/pom.xml" timestamp="1545896438921">
         <mark key="[" line="20" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/role.jsp" timestamp="1544771480520">
         <mark key="[" line="50" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1546349534980">
+      <file name="/a.dummy" timestamp="1546401321179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/dao/Impl/UserDaoImpl.java" timestamp="1542095312111">
@@ -226,6 +229,9 @@
         <mark key="]" line="15" column="30" />
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/java/com/zzm/crud/dao/EmployeeMapper.java" timestamp="1546401252972">
+        <mark key="[" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/BaseDict.java" timestamp="1540348932650">
         <mark key="[" line="1" column="0" />
@@ -450,6 +456,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/RoleDaoImpl.java" timestamp="1544771935629">
         <mark key="[" line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/mbg.xml" timestamp="1546401353614">
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/crmwsdl/src/resources/cxf.xml" timestamp="1544087229273">
         <mark key="[" line="31" column="35" />
         <mark key="]" line="31" column="35" />
@@ -532,6 +543,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/WebContent/login.jsp" timestamp="1541085615861">
         <mark key="[" line="191" column="100" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/java/com/zzm/crud/test/MBGTest.java" timestamp="1546399817479">
+        <mark key="[" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/GsonDemo/src/Student.java" timestamp="1540435338499">
         <mark key="[" line="4" column="2" />
@@ -813,6 +827,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/mybaits-config.xml" timestamp="1546397472197">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/mapper/EmployeeMapper.xml" timestamp="1546401519135">
+        <mark key="[" line="70" column="8" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/FunctionalInterfaceDemo/src/PredicateDemo.java" timestamp="1541481849832">
         <mark key="[" line="3" column="2" />
@@ -1271,10 +1288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIDx0YWJsZSBzY2hlbWE9IkRCMkFETUlOIiB0YWJsZU5hbWU9IkFMTFRZUEVTIiBkb21haW5PYmplY3ROYW1lPSJDdXN0b21lciIgPgogICAgICA8cHJvcGVydHkgbmFtZT0idXNlQWN0dWFsQ29sdW1uTmFtZXMiIHZhbHVlPSJ0cnVlIi8+CiAgICAgIDxnZW5lcmF0ZWRLZXkgY29sdW1uPSJJRCIgc3FsU3RhdGVtZW50PSJEQjIiIGlkZW50aXR5PSJ0cnVlIiAvPgogICAgICA8Y29sdW1uT3ZlcnJpZGUgY29sdW1uPSJEQVRFX0ZJRUxEIiBwcm9wZXJ0eT0ic3RhcnREYXRlIiAvPgogICAgICA8aWdub3JlQ29sdW1uIGNvbHVtbj0iRlJFRCIgLz4KICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0iTE9OR19WQVJDSEFSX0ZJRUxEIiBqZGJjVHlwZT0iVkFSQ0hBUiIgLz4KICAgIDwvdGFibGU+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\MBGTestProject\src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
@@ -1283,31 +1300,31 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgIDx0YWJsZSBzY2hlbWE9IkRCMkFETUlOIiB0YWJsZU5hbWU9IkFMTFRZUEVTIiBkb21haW5PYmplY3ROYW1lPSJDdXN0b21lciIgPgogICAgICA8cHJvcGVydHkgbmFtZT0idXNlQWN0dWFsQ29sdW1uTmFtZXMiIHZhbHVlPSJ0cnVlIi8+CiAgICAgIDxnZW5lcmF0ZWRLZXkgY29sdW1uPSJJRCIgc3FsU3RhdGVtZW50PSJEQjIiIGlkZW50aXR5PSJ0cnVlIiAvPgogICAgICA8Y29sdW1uT3ZlcnJpZGUgY29sdW1uPSJEQVRFX0ZJRUxEIiBwcm9wZXJ0eT0ic3RhcnREYXRlIiAvPgogICAgICA8aWdub3JlQ29sdW1uIGNvbHVtbj0iRlJFRCIgLz4KICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0iTE9OR19WQVJDSEFSX0ZJRUxEIiBqZGJjVHlwZT0iVkFSQ0hBUiIgLz4KICAgIDwvdGFibGU+</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICA8Y2xhc3NQYXRoRW50cnkgbG9jYXRpb249Ii9Qcm9ncmFtIEZpbGVzL0lCTS9TUUxMSUIvamF2YS9kYjJqYXZhLnppcCIgLz4K</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDxpbml0LXBhcmFtPgogICAgICA8cGFyYW0tbmFtZT48L3BhcmFtLW5hbWU+CiAgICAgIDxwYXJhbS12YWx1ZT48L3BhcmFtLXZhbHVlPgogICAgPC9pbml0LXBhcmFtPg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmNvbW1vbnM8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbGFuZzM8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5hcnJheWNvcHkoKTsKICAgIEFycmF5cy5jb3B5T2YoKTsKICAgIFN0cmluZy4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QXJyYXlzLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEl0ZXJhdG9yCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQobmV3IEVtcGxveWVlKCJ0ZXN0MTQiLCAyMikpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpc3QuYWRkKG5ldyBFbXBsb3llZSgidGVzdDIiLCAyMikpOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTMiLCAyMiksCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEVtcGxveWVlKCJ0ZXN0MTIiLCAyMiksCg==</text>
+        <text encoding="base64">ICAgIGxpc3QuYWRkKG5ldyBFbXBsb3llZSgidGVzdDIiLCAyMikpOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwogICAgbGlzdC5hZGQoKTsKICAgIGxpc3QuYWRkKCk7CiAgICBsaXN0LmFkZCgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
