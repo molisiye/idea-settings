@@ -286,7 +286,7 @@
           <IdeaActionID>Rainbow.ScopeHighlightingAction</IdeaActionID>
           <ShortCut>'⌘Button3 Click'</ShortCut>
           <Description>Highlight current scope</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -646,7 +646,7 @@
           <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
           <ShortCut>'⌥Button3 Click'</ShortCut>
           <Description>Restrain scope highlighting</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
