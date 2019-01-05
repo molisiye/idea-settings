@@ -929,6 +929,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'list.jsp'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'list.jsp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'test()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1294,6 +1302,14 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'⌘Z'</ShortCut>
           <Description>Undo Copy files/directories</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'list.jsp' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'⌘F10'</ShortCut>
+          <Description>Update 'list.jsp' application</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
