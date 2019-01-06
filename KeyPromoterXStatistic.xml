@@ -1334,7 +1334,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'⌘F10'</ShortCut>
           <Description>Update 'tomcat7' application</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'tomcat8' application">
