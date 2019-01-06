@@ -59,11 +59,11 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/webapp/index.jsp" timestamp="1546775168377">
-        <mark key="'" line="174" column="20" />
-        <mark key="[" line="70" column="17" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/webapp/index.jsp" timestamp="1546777133439">
+        <mark key="'" line="220" column="20" />
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/DesignPattern/src/VisitorPattern/VisitorDemo.java" timestamp="1540481014376">
         <mark key="[" line="9" column="24" />
@@ -1339,11 +1339,11 @@
       <jump line="162" column="20" filename="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/webapp/index.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>myModal</text>
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text>myModal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
