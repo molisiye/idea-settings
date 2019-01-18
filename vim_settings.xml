@@ -961,8 +961,10 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_common/src/test/java/com/tensquare/jwt/ParseJwt.java" timestamp="1547789637785">
-        <mark key="[" line="2" column="3" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_common/src/test/java/com/tensquare/jwt/ParseJwt.java" timestamp="1547790350821">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
@@ -1199,10 +1201,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKioKICAgKiDnlKjmiLfnmbvlvZUKICAgKiBAcGFyYW0gdXNlcgogICAqIEByZXR1cm4KICAgKi8=</text>
+        <text>eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2NjYiLCJzdWIiOiJ4aWFvbWluZyIsImlhdCI6MTU0Nzc4OTU2OH0.56h4r8k-xvhYCGITmwC</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2NjYiLCJzdWIiOiJ4aWFvbWluZyIsImlhdCI6MTU0Nzc4OTU2OH0.56h4r8k-xvhYCGITmwC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob21ldGVsXD4=</text>
