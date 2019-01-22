@@ -144,8 +144,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-dao/src/test/java/com/tz/bos/test/Demo.java" timestamp="1545891378757">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/java/com/tensquare/qa/client/BaseClient.java" timestamp="1548142381492">
-        <mark key="[" line="11" column="3" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/java/com/tensquare/qa/client/BaseClient.java" timestamp="1548146727044">
+        <mark key="[" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/java/com/zzm/crud/controller/DepartmentController.java" timestamp="1546780117101">
         <mark key="[" line="31" column="57" />
@@ -216,10 +216,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/BaseDictDaoImpl.java" timestamp="1540451326515">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/resources/application.yml" timestamp="1548144491388">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/resources/application.yml" timestamp="1548145850058">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/java/com/zzm/crud/controller/EmployeeController.java" timestamp="1547642287750">
         <mark key="[" line="43" column="28" />
@@ -575,8 +575,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/DecidedzoneDaoImpl.java" timestamp="1543914596234">
         <mark key="[" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/java/com/tensquare/qa/controller/ProblemController.java" timestamp="1548142593695">
-        <mark key="[" line="38" column="37" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/java/com/tensquare/qa/controller/ProblemController.java" timestamp="1548149368375">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="35" column="41" />
+        <mark key="." line="34" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/config/WebSecurityConfig.java" timestamp="1547723527319">
         <mark key="[" line="14" column="64" />
@@ -686,8 +689,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/java/com/zhm/bean/Student.java" timestamp="1545837976967">
         <mark key="[" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/BaseApplication.java" timestamp="1548143890837">
-        <mark key="[" line="10" column="19" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/BaseApplication.java" timestamp="1548145691724">
+        <mark key="[" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Role.hbm.xml" timestamp="1544674959485">
         <mark key="[" line="7" column="30" />
@@ -800,10 +803,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/java/com/zzm/crud/bean/Department.java" timestamp="1546601110602">
         <mark key="[" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/resources/application.yml" timestamp="1548144578168">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/resources/application.yml" timestamp="1548147562603">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/webapp/WEB-INF/jsp/list.jsp" timestamp="1545836701877">
         <mark key="[" line="265" column="79" />
@@ -1006,8 +1007,8 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/pom.xml" timestamp="1548139727985">
-        <mark key="[" line="38" column="15" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/pom.xml" timestamp="1548146857322">
+        <mark key="[" line="45" column="33" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1545661545624">
         <mark key="[" line="0" column="0" />
@@ -1201,8 +1202,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/webapp/WEB-INF/jsp/list1.jsp" timestamp="1545836572797">
         <mark key="[" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/pojo/Label.java" timestamp="1544516399973">
-        <mark key="[" line="33" column="5" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/pojo/Label.java" timestamp="1548149540174">
+        <mark key="[" line="11" column="23" />
         <mark key="]" line="32" column="8" />
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
@@ -1235,10 +1236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
+        <text encoding="base64">QFBhdGhWYXJpYWJsZSgibGFiZWxJZCIpIA==</text>
       </register>
       <register name="-" type="4">
-        <text>feignName</text>
+        <text encoding="base64">QFBhdGhWYXJpYWJsZSgibGFiZWxJZCIpIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -1247,33 +1248,39 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
+        <text>feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmZlaWduOgogIGNsaWVudDoKICAgIGRlZmF1bHQ6CiAgICAgIGNvbm5lY3RUaW1lb3V0OiAxMDAwCiAgICAgIHJlYWRUaW1lb3V0OiAxMjAwMA==</text>
-      </register>
-      <register name="3" type="4">
         <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CmZlaWduOgogIGNsaWVudDoKICAgIGRlZmF1bHQ6CiAgICAgIGNvbm5lY3RUaW1lb3V0OiAxMDAwCiAgICAgIHJlYWRUaW1lb3V0OiAxMjAwMA==</text>
+      </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
+      </register>
+      <register name="5" type="4">
         <text>feign:
   client:
     remote-service:</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ2l0aHViLnBhZ2VoZWxwZXI8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnBhZ2VoZWxwZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjUuMS43PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIFN0cmluZyBoZWFkZXIgPSByZXF1ZXN0LmdldEhlYWRlcigiQXV0aG9yaXphdGlvbiIpOwogICAgaWYgKGhlYWRlciA9PSBudWxsIHx8ICIiLmVxdWFscyhoZWFkZXIpKSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCLmnYPpmZDkuI3otrPvvIEiKTsKICAgIH0KICAgIGlmICghaGVhZGVyLnN0YXJ0c1dpdGgoIkJlYXJlciAiKSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5p2D6ZmQ5LiN6Laz77yBIik7CiAgICB9CiAgICAvLyDlvpfliLAgdG9rZW4KICAgIFN0cmluZyB0b2tlbiA9IGhlYWRlci5zdWJzdHJpbmcoNyk7CiAgICB0cnkgewogICAgICBDbGFpbXMgY2xhaW1zID0gand0VXRpbC5wYXJzZUpXVCh0b2tlbik7CiAgICAgIFN0cmluZyByb2xlcyA9IChTdHJpbmcpIGNsYWltcy5nZXQoInJvbGVzIik7CiAgICAgIGlmIChyb2xlcyA9PSBudWxsIHx8ICFyb2xlcy5lcXVhbHMoImFkbWluIikpIHsKICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5p2D6ZmQ5LiN6Laz77yBIik7CiAgICAgIH0KICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCLmnYPpmZDkuI3otrPvvIEiKTsKICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIuadg+mZkOS4jei2s++8gSIpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGlmIChoZWFkZXIgPT0gbnVsbCB8fCAiIi5lcXVhbHMoaGVhZGVyKSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5p2D6ZmQ5LiN6Laz77yBIik7CiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXJBZHZpY2UK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
