@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>343</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -558,7 +558,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>13</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DatabaseUtil'">
@@ -718,7 +718,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Features in: crmwsdl'">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DatabaseUtil'">
