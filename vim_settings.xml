@@ -285,7 +285,7 @@
         <mark key="[" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/service/FriendService.java" timestamp="1548212345562">
-        <mark key="[" line="7" column="3" />
+        <mark key="[" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffAction.java" timestamp="1544588503835">
         <mark key="[" line="57" column="73" />
@@ -872,6 +872,7 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/interceptor/JwtInterceptor.java" timestamp="1548215980002" />
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_service/src/main/java/com/zzm/bos/service/FunctionService.java" timestamp="1545997826631">
         <mark key="[" line="11" column="30" />
       </file>
