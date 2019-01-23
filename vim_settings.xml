@@ -284,8 +284,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/regionService.java" timestamp="1543297946083">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/service/FriendService.java" timestamp="1548212345562">
-        <mark key="[" line="8" column="3" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/service/FriendService.java" timestamp="1548217075925">
+        <mark key="[" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/StaffAction.java" timestamp="1544588503835">
         <mark key="[" line="57" column="73" />
@@ -575,6 +575,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_common/src/main/java/entity/Result.java" timestamp="1544512094438">
         <mark key="[" line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/dao/FriendDao.java" timestamp="1548216415188">
+        <mark key="[" line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/DecidedzoneDaoImpl.java" timestamp="1543914596234">
         <mark key="[" line="7" column="31" />
       </file>
@@ -590,7 +593,7 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1548212329502">
+      <file name="/fragment.java" timestamp="1548216571642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/db.properties" timestamp="1546602301059">
@@ -746,11 +749,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/controller/FriendController.java" timestamp="1548212527464">
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="42" column="15" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="42" column="15" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/controller/FriendController.java" timestamp="1548216227073">
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="49" column="50" />
+        <mark key="^" line="52" column="15" />
+        <mark key="." line="49" column="50" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/User.hbm.xml" timestamp="1544775032137">
         <mark key="[" line="7" column="30" />
@@ -784,6 +787,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_recruit/src/main/java/com/tensquare/recruit/controller/BaseExceptionHandler.java" timestamp="1545057271105">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/pojo/Friend.java" timestamp="1548216454079">
+        <mark key="[" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/NamiHttp/src/PlainTextBody.java" timestamp="1541343571493">
         <mark key="[" line="0" column="26" />
@@ -1259,10 +1265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBkYXRhLXVzZXJuYW1lOiA=</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElzbGlrZSgpIHsKICAgIHJldHVybiBpc2xpa2U7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJc2xpa2UoU3RyaW5nIGlzbGlrZSkgewogICAgdGhpcy5pc2xpa2UgPSBpc2xpa2U7CiAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QFBhdGhWYXJpYWJsZSgibGFiZWxJZCIpIA==</text>
+        <text>参数异常</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
@@ -1271,12 +1277,15 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBkYXRhLXVzZXJuYW1lOiA=</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElzbGlrZSgpIHsKICAgIHJldHVybiBpc2xpa2U7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJc2xpa2UoU3RyaW5nIGlzbGlrZSkgewogICAgdGhpcy5pc2xpa2UgPSBpc2xpa2U7CiAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgPG5hbWU+TWF2ZW4gQ2VudHJhbDwvbmFtZT4KICAgICAgPHVybD5odHRwOi8vcmVwbzEubWF2ZW4ub3JnL21hdmVuMi88L3VybD4KICAgIDwvcmVwb3NpdG9yeT48L3JlcG9zaXRvcmllcz4=</text>
+        <text encoding="base64">CiAgICBkYXRhLXVzZXJuYW1lOiA=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgPG5hbWU+TWF2ZW4gQ2VudHJhbDwvbmFtZT4KICAgICAgPHVybD5odHRwOi8vcmVwbzEubWF2ZW4ub3JnL21hdmVuMi88L3VybD4KICAgIDwvcmVwb3NpdG9yeT48L3JlcG9zaXRvcmllcz4=</text>
+      </register>
+      <register name="4" type="4">
         <text>feign:
   client:
     config:
@@ -1285,25 +1294,22 @@
         readTimeout: 5000
         loggerLevel: basic</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">CmZlaWduOgogIGNsaWVudDoKICAgIGRlZmF1bHQ6CiAgICAgIGNvbm5lY3RUaW1lb3V0OiAxMDAwCiAgICAgIHJlYWRUaW1lb3V0OiAxMjAwMA==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
+        <text encoding="base64">CmZlaWduOgogIGNsaWVudDoKICAgIGRlZmF1bHQ6CiAgICAgIGNvbm5lY3RUaW1lb3V0OiAxMDAwCiAgICAgIHJlYWRUaW1lb3V0OiAxMjAwMA==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>feign:
   client:
     remote-service:</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ2l0aHViLnBhZ2VoZWxwZXI8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnBhZ2VoZWxwZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjUuMS43PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIFN0cmluZyBoZWFkZXIgPSByZXF1ZXN0LmdldEhlYWRlcigiQXV0aG9yaXphdGlvbiIpOwogICAgaWYgKGhlYWRlciA9PSBudWxsIHx8ICIiLmVxdWFscyhoZWFkZXIpKSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCLmnYPpmZDkuI3otrPvvIEiKTsKICAgIH0KICAgIGlmICghaGVhZGVyLnN0YXJ0c1dpdGgoIkJlYXJlciAiKSkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5p2D6ZmQ5LiN6Laz77yBIik7CiAgICB9CiAgICAvLyDlvpfliLAgdG9rZW4KICAgIFN0cmluZyB0b2tlbiA9IGhlYWRlci5zdWJzdHJpbmcoNyk7CiAgICB0cnkgewogICAgICBDbGFpbXMgY2xhaW1zID0gand0VXRpbC5wYXJzZUpXVCh0b2tlbik7CiAgICAgIFN0cmluZyByb2xlcyA9IChTdHJpbmcpIGNsYWltcy5nZXQoInJvbGVzIik7CiAgICAgIGlmIChyb2xlcyA9PSBudWxsIHx8ICFyb2xlcy5lcXVhbHMoImFkbWluIikpIHsKICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi5p2D6ZmQ5LiN6Laz77yBIik7CiAgICAgIH0KICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCLmnYPpmZDkuI3otrPvvIEiKTsKICAgIH0=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ2l0aHViLnBhZ2VoZWxwZXI8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnBhZ2VoZWxwZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjUuMS43PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
