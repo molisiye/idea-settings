@@ -962,10 +962,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/artifacts/tzcrm_war_exploded/index.html" timestamp="1540897298199">
         <mark key="[" line="67" column="98" />
       </file>
-      <file name="$USER_HOME$/TestCode/JavaTest/reflecttest/ReflectTest.java" timestamp="1548821198951">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/TestCode/JavaTest/reflecttest/ReflectTest.java" timestamp="1548828499069">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/FunctionService.java" timestamp="1544865404891">
         <mark key="[" line="40" column="9" />
@@ -1287,10 +1288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIFN0cmluZyBhZ2UgPSAiYWdlIjsKICAgIHRyeSB7CiAgICAgIGFnZUZpZWxkID0gY2xhenouZ2V0RGVjbGFyZWRGaWVsZChhZ2UpOwogICAgICBhZ2VGaWVsZC5zZXQoY2xhenosMTgpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhenouZ2V0RmllbGQoYWdlRmllbGQudG9TdHJpbmcoKSkpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQ==</text>
+        <text>IllegalAccessException, InstantiationE</text>
       </register>
       <register name="-" type="4">
-        <text>fanscount</text>
+        <text>IllegalAccessException, InstantiationE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
