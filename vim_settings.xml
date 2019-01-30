@@ -286,6 +286,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-web/src/test/java/com/tz/bos/test/Demo.java" timestamp="1545893927306">
         <mark key="[" line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/TestCode/JavaTest/reflecttest/Student.java" timestamp="1548820906762">
+        <mark key="[" line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/regionService.java" timestamp="1543297946083">
         <mark key="[" line="2" column="27" />
       </file>
@@ -353,6 +356,9 @@
         <mark key="]" line="4" column="45" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
+      </file>
+      <file name="$USER_HOME$/TestCode/JavaTest/reflectTest/ReflectTest.java" timestamp="1548820568623">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/pojo/Spit.java" timestamp="1545121433897">
         <mark key="[" line="11" column="2" />
@@ -890,7 +896,6 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/interceptor/JwtInterceptor.java" timestamp="1548215980002" />
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_service/src/main/java/com/zzm/bos/service/FunctionService.java" timestamp="1545997826631">
         <mark key="[" line="11" column="30" />
       </file>
@@ -956,6 +961,11 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/artifacts/tzcrm_war_exploded/index.html" timestamp="1540897298199">
         <mark key="[" line="67" column="98" />
+      </file>
+      <file name="$USER_HOME$/TestCode/JavaTest/reflecttest/ReflectTest.java" timestamp="1548821198951">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/FunctionService.java" timestamp="1544865404891">
         <mark key="[" line="40" column="9" />
@@ -1276,8 +1286,8 @@
       <jump line="16" column="20" filename="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_search/src/main/java/com/tensquare/search/pojo/Article.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIFN0cmluZyBhZ2UgPSAiYWdlIjsKICAgIHRyeSB7CiAgICAgIGFnZUZpZWxkID0gY2xhenouZ2V0RGVjbGFyZWRGaWVsZChhZ2UpOwogICAgICBhZ2VGaWVsZC5zZXQoY2xhenosMTgpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhenouZ2V0RmllbGQoYWdlRmllbGQudG9TdHJpbmcoKSkpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>fanscount</text>
@@ -1288,22 +1298,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIFN0cmluZyBhZ2UgPSAiYWdlIjsKICAgIHRyeSB7CiAgICAgIGFnZUZpZWxkID0gY2xhenouZ2V0RGVjbGFyZWRGaWVsZChhZ2UpOwogICAgICBhZ2VGaWVsZC5zZXQoY2xhenosMTgpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhenouZ2V0RmllbGQoYWdlRmllbGQudG9TdHJpbmcoKSkpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgQE1vZGlmeWluZwogIEBRdWVyeSh2YWx1ZSA9ICJ1cGRhdGUgdGJfZnJpZW5kIHNldCBpc2xpa2U9PyB3aGVyZSB1c2VyaWQ9PyBhbmQgZnJpZW5kaWQ9PyIsIG5hdGl2ZVF1ZXJ5ID0gdHJ1ZSkKICB2b2lkIHVwZGF0ZUlzTGlrZShTdHJpbmcgaXNsaWtlLCBTdHJpbmcgdXNlcmlkLCBTdHJpbmcgZnJpZW5kaWQpOw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElzbGlrZSgpIHsKICAgIHJldHVybiBpc2xpa2U7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJc2xpa2UoU3RyaW5nIGlzbGlrZSkgewogICAgdGhpcy5pc2xpa2UgPSBpc2xpa2U7CiAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBkYXRhLXVzZXJuYW1lOiA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA8cmVwb3NpdG9yaWVzPgogICAgPHJlcG9zaXRvcnk+CiAgICAgIDxpZD5jZW50cmFsPC9pZD4KICAgICAgPG5hbWU+TWF2ZW4gQ2VudHJhbDwvbmFtZT4KICAgICAgPHVybD5odHRwOi8vcmVwbzEubWF2ZW4ub3JnL21hdmVuMi88L3VybD4KICAgIDwvcmVwb3NpdG9yeT48L3JlcG9zaXRvcmllcz4=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>feign:
   client:
     config:
@@ -1312,14 +1325,11 @@
         readTimeout: 5000
         loggerLevel: basic</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">CmZlaWduOgogIGNsaWVudDoKICAgIGRlZmF1bHQ6CiAgICAgIGNvbm5lY3RUaW1lb3V0OiAxMDAwCiAgICAgIHJlYWRUaW1lb3V0OiAxMjAwMA==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIGluc3RhbmNlOgogICAgICBwcmVmZXItaXAtYWRkcmVzczogdHJ1ZQ==</text>
+        <text encoding="base64">CmZlaWduOgogIGNsaWVudDoKICAgIGRlZmF1bHQ6CiAgICAgIGNvbm5lY3RUaW1lb3V0OiAxMDAwCiAgICAgIHJlYWRUaW1lb3V0OiAxMjAwMA==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
