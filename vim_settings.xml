@@ -345,6 +345,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/java/com/zzm/bos/controller/PageController.java" timestamp="1546059615341">
         <mark key="[" line="19" column="53" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_web/pom.xml" timestamp="1549456006059">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Decidedzone.java" timestamp="1544081536328">
         <mark key="[" line="16" column="10" />
       </file>
@@ -439,6 +442,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/dao/SpitDao.java" timestamp="1545189289145">
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/pom.xml" timestamp="1549455866052">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/PageBean.java" timestamp="1543299530389">
         <mark key="[" line="1" column="0" />
@@ -644,8 +650,10 @@
       <file name="/File Header.txt.ft" timestamp="1546088003119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_common/pom.xml" timestamp="1549454064591">
-        <mark key="[" line="11" column="40" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_common/pom.xml" timestamp="1549455289657">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/controller/BaseAction.java" timestamp="1542107827920">
         <mark key="[" line="13" column="2" />
@@ -718,6 +726,11 @@
         <mark key="]" line="109" column="27" />
         <mark key="^" line="109" column="27" />
         <mark key="." line="109" column="27" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_dao/pom.xml" timestamp="1549455629209">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/java/com/zhm/bean/Student.java" timestamp="1545837976967">
         <mark key="[" line="16" column="8" />
@@ -1154,6 +1167,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/production/tzcrm/log4j.properties" timestamp="1540979228098">
         <mark key="[" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/pom.xml" timestamp="1549456148578" />
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-utils/src/main/java/com/tz/crm/service/CustomerService.java" timestamp="1544281316114">
         <mark key="[" line="16" column="2" />
       </file>
@@ -1197,6 +1211,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/webapp/WEB-INF/web.xml" timestamp="1546005731617">
         <mark key="[" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/pom.xml" timestamp="1549455399833">
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_article/src/main/resources/application.yml" timestamp="1548141892100">
         <mark key="[" line="14" column="19" />
@@ -1295,7 +1312,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogIDwhLS0g5YyF5ZCr6aG555uu5Lit55So5Yiw55qE5omA5pyJ55qEIGphciDljIXnmoTniYjmnKwtLT4KICA8ZGVwZW5kZW5jeU1hbmFnZW1lbnQ+CiAgICA8ZGVwZW5kZW5jaWVzPgoKICAgIDwvZGVwZW5kZW5jaWVzPgogIDwvZGVwZW5kZW5jeU1hbmFnZW1lbnQ+</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAKICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1307,31 +1324,31 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgogIDwhLS0g5YyF5ZCr6aG555uu5Lit55So5Yiw55qE5omA5pyJ55qEIGphciDljIXnmoTniYjmnKwtLT4KICA8ZGVwZW5kZW5jeU1hbmFnZW1lbnQ+CiAgICA8ZGVwZW5kZW5jaWVzPgoKICAgIDwvZGVwZW5kZW5jaWVzPgogIDwvZGVwZW5kZW5jeU1hbmFnZW1lbnQ+</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAKICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIFJlc3VsdFNldCBjYXRhbG9ncyA9IG1ldGFEYXRhLmdldENhdGFsb2dzKCk7CiAgICB3aGlsZSAoY2F0YWxvZ3MubmV4dCgpKSB7CgogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzbGY0ai52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBTdHJpbmcgc3RyMSA9ICJ0ZXN0X25hbWUiOwogICAgYm9vbGVhbiBiID0gc3RyMS5jb250YWlucygiXyIpOwogICAgaW50IGkgPSBzdHIxLmluZGV4T2YoIl8iKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsKICAgIGNoYXIgYyA9IHN0cjEuY2hhckF0KGkgKyAxKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihjKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqdW5pdC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgKiBAcGFyYW0gc3RyCiAgICogQHJldHVybg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtodHRwY2xpZW50LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICByZXR1cm4gc2I7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIC8vd2hpbGUgKG1hdGNoZXIuZmluZCgpKSB7CiAgICAvLyAgZm9yKGludCBpID0gMDsgaSA8PSBtYXRjaGVyLmdyb3VwQ291bnQoKTsgaSsrKSB7CiAgICAvLyAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdyb3VwKCIgKyBpICsgIikgIiArIG1hdGNoZXIuZ3JvdXAoaSkpOwogICAgLy8gIH0KICAgIC8vfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtjb21tb25zLW5ldC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAg5L2c6ICF77yac3RhcnJ5X2JveQogICAg5p2l5rqQ77yaQ1NETgogICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0YXJyeTc5NTM4MTAvYXJ0aWNsZS9kZXRhaWxzLzc4NTYyNTU0IAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtjb21tb25zLWlvLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIFN0cmluZyBhZ2UgPSAiYWdlIjsKICAgIHRyeSB7CiAgICAgIGFnZUZpZWxkID0gY2xhenouZ2V0RGVjbGFyZWRGaWVsZChhZ2UpOwogICAgICBhZ2VGaWVsZC5zZXQoY2xhenosMTgpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xhenouZ2V0RmllbGQoYWdlRmllbGQudG9TdHJpbmcoKSkpOwogICAgfSBjYXRjaCAoTm9TdWNoRmllbGRFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQ==</text>
+        <text encoding="base64">CgogIDwhLS0g5YyF5ZCr6aG555uu5Lit55So5Yiw55qE5omA5pyJ55qEIGphciDljIXnmoTniYjmnKwtLT4KICA8ZGVwZW5kZW5jeU1hbmFnZW1lbnQ+CiAgICA8ZGVwZW5kZW5jaWVzPgoKICAgIDwvZGVwZW5kZW5jaWVzPgogIDwvZGVwZW5kZW5jeU1hbmFnZW1lbnQ+</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIFJlc3VsdFNldCBjYXRhbG9ncyA9IG1ldGFEYXRhLmdldENhdGFsb2dzKCk7CiAgICB3aGlsZSAoY2F0YWxvZ3MubmV4dCgpKSB7CgogICAgfQ==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
