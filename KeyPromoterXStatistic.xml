@@ -49,6 +49,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1022,7 +1030,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'tomcat7'</Description>
-          <Count>71</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'tomcat7:run'">
@@ -1270,7 +1278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'tomcat7'</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat7:run'">
@@ -1294,7 +1302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1385,12 +1393,28 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'⌘T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'⌃V'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Version Control">
         <Item>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
