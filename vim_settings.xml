@@ -399,8 +399,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_service/src/main/java/com/zzm/bos/service/impl/StaffServiceImpl.java" timestamp="1546066765335">
         <mark key="[" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/HibernateDemo/src/hibernate.cfg.xml" timestamp="1549797066575">
-        <mark key="[" line="6" column="35" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/HibernateDemo/src/hibernate.cfg.xml" timestamp="1549798273682">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_article/src/main/java/com/tensquare/article/service/ArticleService.java" timestamp="1545117509662">
         <mark key="[" line="48" column="2" />
@@ -1323,7 +1325,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXBwaW5nTGlzdCI+CiAgICAgIDxsaXN0PgogICAgICAgIDx2YWx1ZT5jbGFzczwvdmFsdWU+CiAgICAgIDwvbGlzdD4KICAgIDwvbWFwcGluZ0w+</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1335,31 +1337,31 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXBwaW5nTGlzdCI+CiAgICAgIDxsaXN0PgogICAgICAgIDx2YWx1ZT5jbGFzczwvdmFsdWU+CiAgICAgIDwvbGlzdD4KICAgIDwvbWFwcGluZ0w+</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgew==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgew==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAKICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzbGY0ai52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqdW5pdC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtodHRwY2xpZW50LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtjb21tb25zLW5ldC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtjb21tb25zLWlvLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtjb21tb25zLW5ldC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
