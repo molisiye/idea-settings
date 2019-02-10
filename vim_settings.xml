@@ -339,6 +339,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm-parent/bos1808-utils/src/main/java/com/tz/bos/utils/BOSUtils.java" timestamp="1545892125760">
         <mark key="[" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/HibernateDemo/src/entity/Region.java" timestamp="1549803433768">
+        <mark key="[" line="44" column="3" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_gathering/src/main/java/com/tensquare/gathering/service/GatheringService.java" timestamp="1545117976186">
         <mark key="[" line="81" column="2" />
       </file>
@@ -427,6 +430,9 @@
         <mark key="]" line="114" column="69" />
         <mark key="^" line="114" column="68" />
         <mark key="." line="114" column="69" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/HibernateDemo/src/entity/Region.hbm.xml" timestamp="1549802494730">
+        <mark key="[" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/UserDao.java" timestamp="1544579033662">
         <mark key="[" line="8" column="6" />
@@ -662,6 +668,9 @@
         <mark key="[" line="11" column="40" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/HibernateDemo/src/Demo1.java" timestamp="1549803134588">
+        <mark key="[" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/controller/BaseAction.java" timestamp="1542107827920">
         <mark key="[" line="13" column="2" />
