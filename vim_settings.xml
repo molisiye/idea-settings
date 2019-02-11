@@ -445,6 +445,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/StaffDao.java" timestamp="1542872620700">
         <mark key="[" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager_web/pom.xml" timestamp="1549869246457">
+        <mark key="[" line="27" column="44" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_qa/src/main/java/com/tensquare/qa/QaApplication.java" timestamp="1548142280781">
         <mark key="[" line="10" column="22" />
       </file>
@@ -968,6 +971,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/dao/impl/CustomerDaoImpl.java" timestamp="1541059975561">
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager_web/src/main/webapp/WEB-INF/web.xml" timestamp="1549868891242">
+        <mark key="[" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/NoticeBillDao.java" timestamp="1544365640787">
         <mark key="[" line="2" column="31" />
       </file>
@@ -1135,6 +1141,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/service/Impl/CustomerServiceImpl.java" timestamp="1541085762732">
         <mark key="[" line="28" column="2" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/src/main/resources/spring/ApplicationContext-transaction.xml" timestamp="1549868428275">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="vim_settings.xml" timestamp="1545287361977">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1201,8 +1212,8 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/production/tzcrm/log4j.properties" timestamp="1540979228098">
         <mark key="[" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/pom.xml" timestamp="1549459054817">
-        <mark key="[" line="34" column="33" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/pom.xml" timestamp="1549869576539">
+        <mark key="[" line="37" column="66" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-utils/src/main/java/com/tz/crm/service/CustomerService.java" timestamp="1544281316114">
         <mark key="[" line="16" column="2" />
@@ -1348,10 +1359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA8IS0tIOWKoOi9vemFjee9ruaWh+S7tiAtLT4KICA8Y29udGV4dDpwcm9wZXJ0eS1wbGFjZWhvbGRlciBsb2NhdGlvbj0iY2xhc3NwYXRoOnByb3BlcnRpZXMvZGIucHJvcGVydGllcyIvPgogIDwhLS0g5pWw5o2u5bqT6L+e5o6l5rGgIC0tPgogIDxiZWFuIGlkPSJkYXRhU291cmNlIiBjbGFzcz0iY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UiIGRlc3Ryb3ktbWV0aG9kPSJjbG9zZSI+CiAgICA8cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iJHtqZGJjLnVybH0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJ1c2VybmFtZSIgdmFsdWU9IiR7amRiYy51c2VybmFtZX0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9IiR7amRiYy5wYXNzd29yZH0iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJkcml2ZXJDbGFzc05hbWUiIHZhbHVlPSIke2pkYmMuZHJpdmVyfSIvPgogICAgPHByb3BlcnR5IG5hbWU9Im1heEFjdGl2ZSIgdmFsdWU9IjEwIi8+CiAgICA8cHJvcGVydHkgbmFtZT0ibWluSWRsZSIgdmFsdWU9IjUiLz4KCiAgPC9iZWFuPgoKICA8IS0tIFNxbFNlc3Npb25GYWN0b3J5IC0tPgogIDwhLS0g6K6pIHNwcmluZyDnrqHnkIYgc3FsU2Vzc2lvbkZhY3Rvcnkg5L2/55SoIG15YmF0aXMg5ZKMIHNwcmluZyDmlbTlkIjljIUgLS0+CiA8YmVhbiBpZD0ic3FsU2Vzc2lvbkZhY3RvcnkiIGNsYXNzPSJvcmcubXliYXRpcy5zcHJpbmcuU3FsU2Vzc2lvbkZhY3RvcnlCZWFuIj4KICAgPCEtLSDmlbDmja7lupPov57mjqXmsaAgLS0+CiAgIDxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9ImRhdGFTb3VyY2UiLz4KICAgPCEtLSDliqDovb0gbXliYXRpcyDnmoTlhajlsYDphY3nva7mlofku7YgLS0+CiAgIDxwcm9wZXJ0eSBuYW1lPSJjb25maWdMb2NhdGlvbiIgdmFsdWU9ImNsYXNzcGF0aDpteWJhdGlzL1NxbE1hcENvbmZpZy54bWwiLz4KIDwvYmVhbj4KICA8IS0tIE1hcHBlciDmmKDlsITmlofku7bnmoTljIXmiavmj4/lmaggLS0+CiAgPGJlYW4gY2xhc3M9Im9yZy5teWJhdGlzLnNwcmluZy5tYXBwZXIuTWFwcGVyU2Nhbm5lckNvbmZpZ3VyZXIiPgogICAgPHByb3BlcnR5IG5hbWU9ImJhc2VQYWNrYWdlIiB2YWx1ZT0iY29tLnRhb3Rhby5tYXBwZXIiLz4KICA8L2JlYW4+</text>
+        <text>http://www.springframework.org/schema/jdbc/spring-jdbc.xsd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>http://www.springframework.org/schema/jdbc/spring-jdbc.xsd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
