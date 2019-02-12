@@ -110,6 +110,9 @@
         <mark key="^" line="217" column="2" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" timestamp="1549977000447">
+        <mark key="[" line="14" column="53" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_recruit/pom.xml" timestamp="1545031308364">
         <mark key="[" line="18" column="4" />
       </file>
@@ -208,6 +211,9 @@
       </file>
       <file name="/Dummy.xpath" timestamp="1545661743600">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_interface/src/main/java/com/taotao/service/ItemService.java" timestamp="1549976420705">
+        <mark key="[" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Subarea.hbm.xml" timestamp="1544147422420">
         <mark key="[" line="9" column="21" />
@@ -471,8 +477,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/dao/SpitDao.java" timestamp="1545189289145">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/pom.xml" timestamp="1549866114618">
-        <mark key="[" line="11" column="49" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/pom.xml" timestamp="1549977666082">
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/PageBean.java" timestamp="1543299530389">
         <mark key="[" line="1" column="0" />
@@ -555,7 +563,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/User.hbm.xml" timestamp="1540193411037">
         <mark key="[" line="5" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549874338536">
+      <file name="/Dummy.txt" timestamp="1549977648319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -648,7 +656,7 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1549946453720">
+      <file name="/fragment.java" timestamp="1549976974510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/db.properties" timestamp="1546602301059">
@@ -1222,7 +1230,10 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/out/production/tzcrm/log4j.properties" timestamp="1540979228098">
         <mark key="[" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/pom.xml" timestamp="1549869576539">
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_interface/pom.xml" timestamp="1549976455236">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/pom.xml" timestamp="1549977371468">
         <mark key="[" line="37" column="66" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-utils/src/main/java/com/tz/crm/service/CustomerService.java" timestamp="1544281316114">
