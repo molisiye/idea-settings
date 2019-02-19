@@ -137,6 +137,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Main'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Main'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MyTetris'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>147</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -854,7 +862,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Main'</Description>
-          <Count>10</Count>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Main.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MyTetris'">
@@ -1158,7 +1174,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1541</Count>
+          <Count>1544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -1183,6 +1199,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Demo.fun07'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Main'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Main'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MyTetris'">
@@ -1342,7 +1366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1390,7 +1414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>130</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
