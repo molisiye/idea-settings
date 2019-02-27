@@ -676,7 +676,7 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1550588324261">
+      <file name="/fragment.java" timestamp="1551270610893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/db.properties" timestamp="1546602301059">
@@ -720,8 +720,8 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/jdbcDemo/src/com/zzm/jdbcdemo/JdbcTools.java" timestamp="1549095551956">
-        <mark key="[" line="10" column="24" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/jdbcDemo/src/com/zzm/jdbcdemo/JdbcTools.java" timestamp="1551270635287">
+        <mark key="[" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/webapp/WEB-INF/pages/base/standard.jsp" timestamp="1546053924407">
         <mark key="[" line="10" column="16" />
@@ -799,8 +799,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/java/com/zhm/bean/Student.java" timestamp="1545837976967">
-        <mark key="[" line="16" column="8" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/java/com/zhm/bean/Student.java" timestamp="1551270572136">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/BaseApplication.java" timestamp="1548145691724">
         <mark key="[" line="12" column="53" />
@@ -1415,10 +1417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGZvciAoSnNvblZhbHVlIHZhbHVlIDogdGVzdCkgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmFsdWUpOwogICAgfQ==</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
