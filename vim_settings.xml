@@ -672,7 +672,7 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1551270610893">
+      <file name="/fragment.java" timestamp="1551426483310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/ssm_crud/src/main/resources/db.properties" timestamp="1546602301059">
@@ -895,6 +895,12 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/demo/map/MapDemo.java" timestamp="1551425949854">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Workbill.hbm.xml" timestamp="1544363803965">
         <mark key="[" line="9" column="70" />
         <mark key="]" line="9" column="70" />
@@ -1045,6 +1051,11 @@
         <mark key="]" line="186" column="17" />
         <mark key="." line="186" column="17" />
         <mark key="^" line="186" column="17" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/demo/map.java" timestamp="1551425466710">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/bean/PageBean.java" timestamp="1540898810293">
         <mark key="[" line="65" column="0" />
@@ -1271,6 +1282,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/pom.xml" timestamp="1549977371468">
         <mark key="[" line="37" column="66" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/demo/set/SetDemo.java" timestamp="1551425158558">
+        <mark key="[" line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-utils/src/main/java/com/tz/crm/service/CustomerService.java" timestamp="1544281316114">
         <mark key="[" line="16" column="2" />
       </file>
@@ -1417,11 +1431,11 @@
       <jump line="16" column="20" filename="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_search/src/main/java/com/tensquare/search/pojo/Article.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC8vLmJhY2soKQogICAgICAgICAgICAgICAgICAgLy8uZmV0Y2goKQogICAgICAgICAgICAgICAgICAgLy8uYXMoSnNvblJlc3BvbnNlLmNsYXNzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
