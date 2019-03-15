@@ -2,4 +2,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
 </keymap>
