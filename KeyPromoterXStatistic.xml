@@ -982,7 +982,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'TankClient'</Description>
-          <Count>26</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat 7.0.90'">
