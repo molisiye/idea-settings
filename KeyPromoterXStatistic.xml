@@ -422,7 +422,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>157</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -534,6 +534,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Recompile 'SpitService.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'TankClient.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'TankClient.java'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -982,7 +990,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'TankClient'</Description>
-          <Count>44</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat 7.0.90'">
