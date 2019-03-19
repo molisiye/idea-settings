@@ -287,7 +287,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/User.hbm.xml" timestamp="1540193411037">
         <mark key="[" line="5" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552995348292">
+      <file name="/Dummy.txt" timestamp="1552997715851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/VisitDaoImpl.java" timestamp="1540963889870">
@@ -562,6 +562,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/MyTetris/data/cfg.xml" timestamp="1546432172779">
         <mark key="[" line="73" column="46" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/Explode.java" timestamp="1552995940367">
+        <mark key="[" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/controller/FunctionAction.java" timestamp="1544865367983">
         <mark key="[" line="36" column="0" />
@@ -850,13 +853,13 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/TankClient.java" timestamp="1552994668338">
+      <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/TankClient.java" timestamp="1552998146505">
         <mark key="'" line="36" column="0" />
         <mark key="y" line="78" column="6" />
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="4" />
-        <mark key="^" line="40" column="4" />
-        <mark key="." line="40" column="4" />
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="39" column="32" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/BaseDictDaoImpl.java" timestamp="1540451326515">
         <mark key="[" line="2" column="28" />
@@ -1431,10 +1434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwvXD4=</text>
