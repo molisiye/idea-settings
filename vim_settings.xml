@@ -1129,6 +1129,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/action/VisitAction.java" timestamp="1541060613585">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/Blood.java" timestamp="1553406808418">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/controller/Impl/BaseAction.java" timestamp="1541688398489">
         <mark key="[" line="2" column="24" />
       </file>
@@ -1518,6 +1524,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
