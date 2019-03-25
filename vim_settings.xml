@@ -239,8 +239,8 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/webapp/WEB-INF/spring-servlet.xml" timestamp="1553499402271">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/webapp/WEB-INF/spring-servlet.xml" timestamp="1553511138982">
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/src/main/resources/spring/ApplicationContext-service.xml" timestamp="1549867084167">
         <mark key="[" line="6" column="15" />
@@ -369,11 +369,11 @@
       <file name="/Class.txt.ft" timestamp="1545661537456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/controller/TestController.java" timestamp="1553498088154">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/controller/TestController.java" timestamp="1553511656475">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_rabbitmqdemo/src/main/java/com/tensquare/rabbit/customer/Customer1.java" timestamp="1546341646173">
         <mark key="[" line="11" column="28" />
@@ -596,11 +596,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/DesignPattern/src/VisitorPattern/Engine.java" timestamp="1540480790309">
         <mark key="[" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/common/JsonData.java" timestamp="1553505421084">
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="36" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="32" column="36" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/common/JsonData.java" timestamp="1553511369887">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/demo/map.java" timestamp="1551425466710">
         <mark key="[" line="6" column="16" />
@@ -959,11 +959,11 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="52" column="11" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/common/SpringExceptionResolver.java" timestamp="1553507156256">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/common/SpringExceptionResolver.java" timestamp="1553511203539">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="5" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/SpitApplication.java" timestamp="1545121248478">
         <mark key="[" line="9" column="2" />
@@ -973,6 +973,9 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Region.hbm.xml" timestamp="1543298545668">
         <mark key="[" line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/webapp/WEB-INF/views/exception.jsp" timestamp="1553510994664">
+        <mark key="[" line="10" column="14" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553495756882">
         <mark key="[" line="0" column="0" />
@@ -1599,10 +1602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>PermissionException</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>PermissionException</text>
       </register>
       <register name="/" type="4">
         <text>hitTank</text>
@@ -1611,31 +1614,31 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIDwhLS0gSlNQIC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5hcGFjaGUudG9tY2F0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qc3AtYXBpPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj42LjAuNTM8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEpzb25EYXRhIHN1Y2Nlc3MoU3RyaW5nIG1zZykgewogICAgSnNvbkRhdGEganNvbkRhdGEgPSBuZXcgSnNvbkRhdGEodHJ1ZSk7CiAgICBqc29uRGF0YS5tc2cgPSBtc2c7CiAgICByZXR1cm4ganNvbkRhdGE7CiAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
+        <text encoding="base64">ICAgIDwhLS0gSlNQIC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5hcGFjaGUudG9tY2F0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qc3AtYXBpPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj42LjAuNTM8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9InVzZXIiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCiAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiCiAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPjwvdGFibGU+</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9IlN5c0RlcHQiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgIDxncm91cElkPm9yZy48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICA8L2RlcGVuZGVuY2llcz4=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrlm5vmnIjnmoTokKTngavkuYvlhYkKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNTkyMDgwNDk2OS9hcnRpY2xlL2RldGFpbHMvNzkxMDc4NTIKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgaWYgKCFtaXNzaWxlLmlzTGl2ZSgpKSB7CiAgICAgICAgbWlzc2lsZXMucmVtb3ZlKG1pc3NpbGUpOwogICAgICB9IGVsc2Ugew==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TGl2ZShib29sZWFuIGxpdmUpIHsKICAgIHRoaXMubGl2ZSA9IGxpdmU7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFtaXNzaWxlLmlzTGl2ZSgpKSB7CiAgICAgICAgbWlzc2lsZXMucmVtb3ZlKG1pc3NpbGUpOwogICAgICB9IGVsc2Ugew==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
