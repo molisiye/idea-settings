@@ -1001,6 +1001,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unnamed'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Unnamed'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'bos1808ssm'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1367,6 +1375,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Tomcat 7.0.90'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unnamed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unnamed'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserApplication'">
