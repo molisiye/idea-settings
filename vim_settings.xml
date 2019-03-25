@@ -321,7 +321,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/entity/User.hbm.xml" timestamp="1540193411037">
         <mark key="[" line="5" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553504679676">
+      <file name="/Dummy.txt" timestamp="1553504989724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/VisitDaoImpl.java" timestamp="1540963889870">
@@ -595,6 +595,12 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/DesignPattern/src/VisitorPattern/Engine.java" timestamp="1540480790309">
         <mark key="[" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/common/JsonData.java" timestamp="1553505421084">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="36" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="32" column="36" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/JavaDemo/src/demo/map.java" timestamp="1551425466710">
         <mark key="[" line="6" column="16" />
@@ -1589,7 +1595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9InVzZXIiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCiAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiCiAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPjwvdGFibGU+</text>
+        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1601,33 +1607,33 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9InVzZXIiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCiAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiCiAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPjwvdGFibGU+</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9IlN5c0RlcHQiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgIDxncm91cElkPm9yZy48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICA8L2RlcGVuZGVuY2llcz4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrlm5vmnIjnmoTokKTngavkuYvlhYkKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNTkyMDgwNDk2OS9hcnRpY2xlL2RldGFpbHMvNzkxMDc4NTIKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgaWYgKCFtaXNzaWxlLmlzTGl2ZSgpKSB7CiAgICAgICAgbWlzc2lsZXMucmVtb3ZlKG1pc3NpbGUpOwogICAgICB9IGVsc2Ugew==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TGl2ZShib29sZWFuIGxpdmUpIHsKICAgIHRoaXMubGl2ZSA9IGxpdmU7CiAgfQ==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if (missile != null) {
     missile.draw(g);
     }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGludCBnZXRYU1BFRUQoKSB7CiAgICByZXR1cm4gWFNQRUVEOwogIH0=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
