@@ -950,14 +950,6 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/TankClient.java" timestamp="1553422753639">
-        <mark key="'" line="36" column="0" />
-        <mark key="y" line="78" column="6" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/BaseDictDaoImpl.java" timestamp="1540451326515">
         <mark key="[" line="2" column="28" />
       </file>
@@ -966,6 +958,12 @@
         <mark key="]" line="52" column="11" />
         <mark key="^" line="52" column="11" />
         <mark key="." line="52" column="11" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/common/SpringExceptionResolver.java" timestamp="1553507156256">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="5" />
+        <mark key="^" line="23" column="5" />
+        <mark key="." line="23" column="5" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/SpitApplication.java" timestamp="1545121248478">
         <mark key="[" line="9" column="2" />
@@ -1352,6 +1350,12 @@
         <mark key="." line="9" column="70" />
         <mark key="^" line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/src/main/java/com/zzm/exception/PermissionException.java" timestamp="1553507294808">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/java/com/tz/bos/interceptor/BosInterceptor.java" timestamp="1542112670964">
         <mark key="[" line="2" column="28" />
       </file>
@@ -1405,10 +1409,10 @@
         <mark key="." line="186" column="17" />
         <mark key="^" line="186" column="17" />
       </file>
-      <file name="$USER_HOME$/OneDrive/java-workspace/permision/pom.xml" timestamp="1553504773978">
-        <mark key="[" line="134" column="3" />
-        <mark key="]" line="134" column="3" />
-        <mark key="." line="134" column="3" />
+      <file name="$USER_HOME$/OneDrive/java-workspace/permision/pom.xml" timestamp="1553507039256">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/bean/PageBean.java" timestamp="1540898810293">
         <mark key="[" line="65" column="0" />
@@ -1595,10 +1599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>hitTank</text>
@@ -1607,33 +1611,31 @@
         <text encoding="base64">ICBARmllbGQoaW5kZXggPSB0cnVlLCBhbmFseXplciA9ICJpa19tYXhfd29yZCIsIHNlYXJjaEFuYWx5emVyID0gImlrX21heF93b3JkIikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
+        <text encoding="base64">ICAgIDwhLS0gSlNQIC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5hcGFjaGUudG9tY2F0PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qc3AtYXBpPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj42LjAuNTM8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBKc29uRGF0YSBqc29uRGF0YSA9IA==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9InVzZXIiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCiAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiCiAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPjwvdGFibGU+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDx0YWJsZSB0YWJsZU5hbWU9IlN5c0RlcHQiIGRvbWFpbk9iamVjdE5hbWU9InVzZXIiCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgIDxncm91cElkPm9yZy48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICA8L2RlcGVuZGVuY2llcz4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICDkvZzogIXvvJrlm5vmnIjnmoTokKTngavkuYvlhYkKICAgICAgICDmnaXmupDvvJpDU0ROCiAgICAgICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ExNTkyMDgwNDk2OS9hcnRpY2xlL2RldGFpbHMvNzkxMDc4NTIKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIEK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgaWYgKCFtaXNzaWxlLmlzTGl2ZSgpKSB7CiAgICAgICAgbWlzc2lsZXMucmVtb3ZlKG1pc3NpbGUpOwogICAgICB9IGVsc2Ugew==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TGl2ZShib29sZWFuIGxpdmUpIHsKICAgIHRoaXMubGl2ZSA9IGxpdmU7CiAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>if (missile != null) {
-    missile.draw(g);
-    }</text>
+        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TGl2ZShib29sZWFuIGxpdmUpIHsKICAgIHRoaXMubGl2ZSA9IGxpdmU7CiAgfQ==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
