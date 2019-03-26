@@ -1385,6 +1385,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Tree'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Tree'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Unnamed'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1550,7 +1558,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
