@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>461</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -342,7 +342,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -398,7 +398,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>171</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -798,7 +798,7 @@
           <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
           <ShortCut>'⌥Button3 Click'</ShortCut>
           <Description>Restrain scope highlighting</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -830,7 +830,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'App'</Description>
-          <Count>93</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'App'</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DatabaseUtil'">
