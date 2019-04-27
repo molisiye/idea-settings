@@ -1320,6 +1320,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-service/src/main/java/com/tz/bos/service/impl/DecidedzoneServiceImpl.java" timestamp="1545014468810">
         <mark key="[" line="12" column="29" />
       </file>
+      <file name="D:/OneDrive/java-workspace/JavaDemo/src/demo/stream/StreamTest.java" timestamp="1556364348613" />
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/impl/BaseDictDaoImpl.java" timestamp="1540451326515">
         <mark key="[" line="2" column="28" />
       </file>
@@ -1536,10 +1537,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIC5zb3J0ZWQoKHMxLCBzMikgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50Zigic29ydDogJXM7ICVzXG4iLCBzMSwgczIpOwogICAgICAgICAgICByZXR1cm4gczEuY29tcGFyZVRvKHMyKTsKICAgICAgICAgIH0p</text>
+        <text encoding="base64">ICAgIGludCBhID0gMjsKICAgIGludCBiID0gNDs=</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">KGEsIGIpIC0+IGEgKiBiKQ==</text>
       </register>
       <register name="/" type="4">
         <text>hitTank</text>
@@ -1548,31 +1549,31 @@
         <text encoding="base64">ICAgIFN0cmVhbS5vZigiZDIiLCAiYTIiLCAiYjEiLCAiYjMiLCAiYyIpCiAgICAgICAgICAubWFwKHMgLT4gewo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgIC5zb3J0ZWQoKHMxLCBzMikgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50Zigic29ydDogJXM7ICVzXG4iLCBzMSwgczIpOwogICAgICAgICAgICByZXR1cm4gczEuY29tcGFyZVRvKHMyKTsKICAgICAgICAgIH0p</text>
+        <text encoding="base64">ICAgIGludCBhID0gMjsKICAgIGludCBiID0gNDs=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgIC5zb3J0ZWQoKHMxLCBzMikgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50Zigic29ydDogJXM7ICVzXG4iLCBzMSwgczIpOwogICAgICAgICAgICByZXR1cm4gczEuY29tcGFyZVRvKHMyKTsKICAgICAgICAgIH0p</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgIC5zb3J0ZWQoKHMxLCBzMikgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50Zigic29ydDogJXM7ICVzXG4iLCBzMSwgczIpOwogICAgICAgICAgICByZXR1cm4gczEuY29tcGFyZVRvKHMyKTsKICAgICAgICAgIH0p</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgIC5tYXAocyAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibWFwOiAiICsgcyk7CiAgICAgICAgICAgIHJldHVybiBzLnRvVXBwZXJDYXNlKCk7CiAgICAgICAgICB9KQ==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text />
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbS5vZigpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIFN0cmVhbS5vZigpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAogICAgbXlMaXN0LnN0cmVhbSgpIAo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>// 创建流</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text />
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICByZXR1cm4gTWF0aC5taW4oZ2V0TWluKG5vZGUuZ2V0TGVmdE5vZGUoKSksIGdldE1pbihub2RlLmdldFJpZ2h0Tm9kZSgpKSkgKyAxOwogIH0=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
