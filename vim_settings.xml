@@ -540,6 +540,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/RoleDaoImpl.java" timestamp="1544771935629">
         <mark key="[" line="7" column="25" />
       </file>
+      <file name="D:/OneDrive/java-workspace/JavaDemo/src/demo/regex/RegexDemo.java" timestamp="1556551840195">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="29" column="5" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/impl/WorkBillDaoImpl.java" timestamp="1544366887967">
         <mark key="[" line="7" column="29" />
       </file>
@@ -1139,7 +1145,7 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/NamiHttp/src/com/zzm/http/TcpServer.java" timestamp="1550588228880">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1556436405920">
+      <file name="/fragment.java" timestamp="1556551577236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/Missile.java" timestamp="1553395946715">
@@ -1544,7 +1550,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBiID0gNDsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCB2YWx1ZTogIiArIG0uZ3JvdXAoMCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KGEsIGIpIC0+IGEgKiBiKQ==</text>
@@ -1553,7 +1559,7 @@
         <text>hitTank</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmVhbS5vZigiZDIiLCAiYTIiLCAiYjEiLCAiYjMiLCAiYyIpCiAgICAgICAgICAubWFwKHMgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCB2YWx1ZTogIiArIG0uZ3JvdXAoMCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGludCBiID0gNDsK</text>
@@ -1632,6 +1638,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
