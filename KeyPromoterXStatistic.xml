@@ -94,7 +94,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>4</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -127,14 +127,6 @@
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
           <Count>29</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'App'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'App'</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DatabaseUtil'">
@@ -278,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>466</Count>
+          <Count>447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -342,7 +334,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>7</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -390,7 +382,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>13</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -398,7 +390,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>24</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -406,7 +398,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Library Settings">
@@ -446,7 +438,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>175</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -798,7 +790,7 @@
           <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
           <ShortCut>'⌥Button3 Click'</ShortCut>
           <Description>Restrain scope highlighting</Description>
-          <Count>9</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -823,14 +815,6 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Features in: crmwsdl'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'App'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'App'</Description>
-          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -863,14 +847,6 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'CodeUtil.main()'</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DBUtil'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'DBUtil'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DatabaseUtil'">
@@ -1313,14 +1289,6 @@
           <Count>34</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'App'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'App'</Description>
-          <Count>57</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'DatabaseUtil'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1614,7 +1582,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>168</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
