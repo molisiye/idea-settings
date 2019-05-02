@@ -137,6 +137,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Demo.test01'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Demo.test01'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GameFrame'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -798,7 +806,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>370</Count>
+          <Count>372</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -870,7 +878,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Demo.test01'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Demo.test02'">
@@ -1313,6 +1321,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Demo.test01'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Demo.test01'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'GameFrame'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1622,7 +1638,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>170</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
