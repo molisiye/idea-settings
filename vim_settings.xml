@@ -464,6 +464,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/NamiHttp/src/Headers.java" timestamp="1550724117142">
         <mark key="[" line="16" column="58" />
       </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/controller/SysUserController.java" timestamp="1558685001574">
+        <mark key="[" line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-dao/src/main/java/com/tz/bos/dao/FunctionDao.java" timestamp="1544867065745">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="2" />
@@ -1184,10 +1187,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/src/com/tzcrm/dao/VisitDao.java" timestamp="1540962999891">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/beans/PageQuery.java" timestamp="1558683674125">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/beans/PageQuery.java" timestamp="1558684418038">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/TankWar/src/Wall.java" timestamp="1553241832498">
         <mark key="[" line="6" column="19" />
@@ -1209,6 +1213,12 @@
       </file>
       <file name="D:/OneDrive/java-workspace/Calc/src/core/Main.java" timestamp="1556553379619">
         <mark key="[" line="16" column="15" />
+      </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/beans/PageResult.java" timestamp="1558684509689">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="20" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1546088003119">
         <mark key="[" line="0" column="0" />
@@ -1303,11 +1313,11 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_gathering/src/main/java/com/tensquare/gathering/GatheringApplication.java" timestamp="1545117954223">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/service/SysUserService.java" timestamp="1558624194317">
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="67" column="45" />
-        <mark key="^" line="67" column="45" />
-        <mark key="." line="67" column="45" />
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/service/SysUserService.java" timestamp="1558685192264">
+        <mark key="[" line="70" column="3" />
+        <mark key="]" line="69" column="45" />
+        <mark key="^" line="69" column="45" />
+        <mark key="." line="69" column="45" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/userinfo.jsp" timestamp="1544773451487">
         <mark key="[" line="90" column="15" />
@@ -1366,8 +1376,8 @@
         <mark key="^" line="181" column="17" />
         <mark key="." line="186" column="13" />
       </file>
-      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/dao/SysUserMapper.java" timestamp="1558623900971">
-        <mark key="[" line="57" column="25" />
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/dao/SysUserMapper.java" timestamp="1558685261828">
+        <mark key="[" line="57" column="88" />
         <mark key="]" line="57" column="85" />
         <mark key="^" line="57" column="85" />
         <mark key="." line="57" column="85" />
@@ -1630,7 +1640,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAR2V0dGVyCiAgQFNldHRlcgo=</text>
+        <text encoding="base64">ICBAR2V0dGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>-warning</text>
@@ -1642,31 +1652,31 @@
         <text encoding="base64">ICBAR2V0dGVyCiAgQFNldHRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAR2V0dGVyCiAgQFNldHRlcgo=</text>
+        <text encoding="base64">ICBAR2V0dGVyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBAR2V0dGVyCiAgQFNldHRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICBAR2V0dGVyCiAgQFNldHRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxvYWQgdXNlcmxpc3QsIGRlcHRJZCA9ICIgKyBkZXB0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxvYWQgdXNlcmxpc3QsIGRlcHRJZCA9ICIgKyBkZXB0SWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvdXNlciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbWl0IDEK</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvdXNlciIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBhdHRlcm4gcGF0dGVybjsK</text>
+        <text encoding="base64">ICAgIGxpbWl0IDEK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBNYXRjaGVyIG1hdGNoZXI7CiAgICBNYXRjaGVyIG1hdGNoZXIyOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFBhdHRlcm4gcGF0dGVybjsK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
