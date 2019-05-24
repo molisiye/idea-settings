@@ -207,6 +207,12 @@
       <file name="D:/OneDrive/java-workspace/个人项目/dbgui/src/main/java/com/zzm/ui/TreePane.java" timestamp="1555418875640">
         <mark key="[" line="30" column="3" />
       </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/webapp/WEB-INF/views/admin.jsp" timestamp="1558624917018">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager/taotao_manager_service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" timestamp="1549977000447">
         <mark key="[" line="14" column="53" />
       </file>
@@ -476,6 +482,9 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tanzhou-s/tzcrm/WebContent/login.jsp" timestamp="1541052645150">
         <mark key="[" line="239" column="55" />
       </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/webapp/common/page.jsp" timestamp="1558678673082">
+        <mark key="[" line="60" column="27" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/webapp/WEB-INF/web.xml" timestamp="1546005731617">
         <mark key="[" line="26" column="0" />
       </file>
@@ -673,6 +682,12 @@
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808ssm_parent/bos1808ssm_web/src/main/resources/mapper/StaffMapper.xml" timestamp="1545979491171">
         <mark key="[" line="4" column="4" />
+      </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/controller/AdminController.java" timestamp="1558623377698">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="D:/OneDrive/java-workspace/个人项目/StudentManagement/src/main/java/com/zhm/util/JsonUtil.java" timestamp="1558356725494">
         <mark key="[" line="27" column="3" />
@@ -993,8 +1008,16 @@
       <file name="D:/OneDrive/java-workspace/jdbc/pom.xml" timestamp="1557885316065">
         <mark key="[" line="10" column="4" />
       </file>
-      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/controller/UserController.java" timestamp="1558620942466">
-        <mark key="[" line="17" column="0" />
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/controller/UserController.java" timestamp="1558624775973">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/webapp/WEB-INF/views/dept.jsp" timestamp="1558679140254">
+        <mark key="[" line="321" column="10" />
+        <mark key="]" line="323" column="46" />
+        <mark key="." line="323" column="46" />
+        <mark key="^" line="323" column="46" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/controller/LabelController.java" timestamp="1548142460332">
         <mark key="[" line="53" column="4" />
@@ -1269,8 +1292,17 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/tzcrm-ano/src/com/tzcrm/service/Impl/BaseDictServiceImpl.java" timestamp="1541085803182">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/webapp/common/page.jsp.xhtml" timestamp="1558677834092">
+        <mark key="[" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/tensquare_parent/tensquare_gathering/src/main/java/com/tensquare/gathering/GatheringApplication.java" timestamp="1545117954223">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/service/SysUserService.java" timestamp="1558624194317">
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="45" />
+        <mark key="^" line="67" column="45" />
+        <mark key="." line="67" column="45" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-web/src/main/webapp/WEB-INF/pages/admin/userinfo.jsp" timestamp="1544773451487">
         <mark key="[" line="90" column="15" />
@@ -1328,6 +1360,12 @@
         <mark key="]" line="186" column="13" />
         <mark key="^" line="181" column="17" />
         <mark key="." line="186" column="13" />
+      </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/java/com/zzm/dao/SysUserMapper.java" timestamp="1558623900971">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="85" />
+        <mark key="^" line="57" column="85" />
+        <mark key="." line="57" column="85" />
       </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/StudentManagement/src/main/java/com/zhm/service/impl/StudentServiceImpl.java" timestamp="1545834733339">
         <mark key="[" line="22" column="15" />
@@ -1539,6 +1577,12 @@
       <file name="$USER_HOME$/OneDrive/java-workspace/taotao_parent/taotao_manager_web/src/main/resources/spring/springmvc.xml" timestamp="1549873039342">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="D:/OneDrive/java-workspace/permision/src/main/resources/mapper/SysUserMapper.xml" timestamp="1558624338548">
+        <mark key="[" line="212" column="58" />
+        <mark key="]" line="212" column="61" />
+        <mark key="." line="212" column="61" />
+        <mark key="^" line="212" column="61" />
+      </file>
       <file name="$USER_HOME$/OneDrive/java-workspace/bos1808-parent/bos1808-entity/src/main/java/com/tz/bos/entity/Decidedzone.java" timestamp="1544081536328">
         <mark key="[" line="16" column="10" />
       </file>
@@ -1580,44 +1624,44 @@
       <jump line="372" column="28" filename="$USER_HOME$/OneDrive/java-workspace/TankWar/src/Tank.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// 执行查询方法</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxvYWQgdXNlcmxpc3QsIGRlcHRJZCA9ICIgKyBkZXB0SWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>// 执行查询方法</text>
+        <text>Map</text>
       </register>
       <register name="/" type="4">
         <text>hitTank</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3VuZCB2YWx1ZTogIiArIG0uZ3JvdXAoMCkpOwo=</text>
+      <register name="0" type="4">
+        <text>e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBhdHRlcm4gcGF0dGVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxvYWQgdXNlcmxpc3QsIGRlcHRJZCA9ICIgKyBkZXB0SWQpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBNYXRjaGVyIG1hdGNoZXI7CiAgICBNYXRjaGVyIG1hdGNoZXIyOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvdXNlciIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudCA9IGJ1ZmZlcltpbmRleCsrXTsK</text>
+        <text encoding="base64">ICAgIGxpbWl0IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">ICAgIFBhdHRlcm4gcGF0dGVybjsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKHNvbiIpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBNYXRjaGVyIG1hdGNoZXI7CiAgICBNYXRjaGVyIG1hdGNoZXIyOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIgc3RyaW5nQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTsKICAgIHJlYWQoKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY3VycmVudCA9IGJ1ZmZlcltpbmRleCsrXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBiID0gNDsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
@@ -1671,6 +1715,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
